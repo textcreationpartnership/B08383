@@ -1,0 +1,3121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some buds and blossoms of piety also, some fruit of the spirit of love. Which directs to the Divine wisdom, being a collection of several papers, found in manuscript, / written by a young man, many of them in the time of his apprenticeship, some of them since. Who, as  appears by his writings, had a true travail after the knowledge of God, and heaven, and heavenly things. And did attain to know him and his son, Christ, whom he hath sent, which is life eternal. ; To which subjoyned is a tripple plea, touching law, physick and divinitie, formerly printed and subscribed T.C.</title>
+            <author>B. A. (Benjamin Antrobus), d. 1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 111 KB of XML-encoded text transcribed from 45 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08383</idno>
+            <idno type="OCLC"> 124064088</idno>
+            <idno type="STC">Wing A3523A</idno>
+            <idno type="STC">ESTC R176216</idno>
+            <idno type="EEBO-CITATION">124064088</idno>
+            <idno type="OCLC">ocn 124064088</idno>
+            <idno type="VID">192198</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08383)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192198)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2902:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some buds and blossoms of piety also, some fruit of the spirit of love. Which directs to the Divine wisdom, being a collection of several papers, found in manuscript, / written by a young man, many of them in the time of his apprenticeship, some of them since. Who, as  appears by his writings, had a true travail after the knowledge of God, and heaven, and heavenly things. And did attain to know him and his son, Christ, whom he hath sent, which is life eternal. ; To which subjoyned is a tripple plea, touching law, physick and divinitie, formerly printed and subscribed T.C.</title>
+                  <author>B. A. (Benjamin Antrobus), d. 1715.</author>
+                  <author>T. C. Tripple plea.</author>
+               </titleStmt>
+               <extent>[8], 76 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Sowle,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>in the year 1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Author's initials on p. 69.</note>
+                  <note>Place of publication from added t.p.</note>
+                  <note>Numerous errors in pagination.</note>
+                  <note>Reproduction of original in the Haverford College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English poetry --  17th century --  Early works to 1800.</term>
+               <term>Piety --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:192198:1" rendition="simple:additions"/>
+            <pb facs="tcp:192198:2"/>
+            <pb facs="tcp:192198:2" rendition="simple:additions"/>
+            <p>SOME Buds and Bloſſoms OF PIETY Alſo, Some FRUIT Of the Spirit of LOVE, Which Directs to the Divine Wiſdom.</p>
+            <p>BEING A Collection of ſeveral Papers, Found in Manuſcript, Written by a <hi>Young Man,</hi> many of them in the time of his <hi>Apprenticeſhip,</hi> ſome of them at ſeveral times ſince.</p>
+            <p>Who, as appears by his <hi>Writings,</hi> had a true Travail after the <hi>Knowledge of God,</hi> and <hi>Heaven,</hi> and <hi>Heavenly Things.</hi> And did attain to know him, and his <hi>Son, Chriſt,</hi> whom he hath ſent, which is <hi>Life Eternal.</hi>
+            </p>
+            <lg>
+               <l>To which ſubjoyned is a Tripple <hi>Plea,</hi>
+               </l>
+               <l>Touching <hi>Law, Phyſick,</hi> and <hi>Divinitie,</hi>
+               </l>
+               <l>Formerly Printed and Subſcribed <hi>T. C.</hi>
+               </l>
+            </lg>
+            <p>Printed by <hi>Andrew Sowle,</hi> in the Year 1684.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:192198:3" rendition="simple:additions"/>
+            <pb facs="tcp:192198:3" rendition="simple:additions"/>
+            <p>SOME Buds and Bloſſoms OF PIETY Alſo, Some FRUIT Of the Spirit of LOVE, Which Directs to the Divine Wiſdom.</p>
+            <p>BEING A Collection of ſeveral Papers, written by a Young Man, ſome of them in the time of his Appren<g ref="char:EOLhyphen"/>ticeſhip, ſome of them at ſeveral times ſince, and the latter part of them in his late Conſinement, by a Writ <hi>De Excommunicato Capiendo.</hi>
+            </p>
+            <p>Who, as appears by his Writings, had a true Travail after the Knowledge of God, and Heaven, and Heavenly Things; and did attain to know him, and his Son Chriſt, whom he hath ſent, which is Life Eternal.</p>
+            <lg>
+               <l>To which ſubjoyned is a Tripple Plea,</l>
+               <l>Touching Law, Phyſick and Divinitie,</l>
+               <l>Formerly Printed and Subſcribed <hi>T. C.</hi>
+               </l>
+            </lg>
+            <p>Alſo, ſome Lines written by <hi>J. C.</hi>
+            </p>
+            <p>London, <hi>Printed and Sold by</hi> Andrew Sowle, 1684.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:192198:4" rendition="simple:additions"/>
+            <opener>
+               <salute>
+                  <pb facs="tcp:192198:4"/>Friendly Reader;</salute>
+            </opener>
+            <lg>
+               <l>IF in theſe following Lines thou ought eſpy,</l>
+               <l>Seemeth not right, not pleaſing in thine Eye,</l>
+               <l>Pray be ſo kind, ſo courteous and ſo fare,</l>
+               <l>Excuſe the Author, don't hard on him bare;</l>
+               <l>For what he wrote, I judge, well did intend,</l>
+               <l>I pray, his Faults, the <hi>Reader</hi> to amend.</l>
+               <l>One while 'twas with him, neither day nor night,</l>
+               <l>But in the Ev'ning-Tide appeared Light;</l>
+               <l>And as unto this Light he did take heed,</l>
+               <l>The Morning Day-Star did ariſe indeed,</l>
+               <l>And Sun of Righteouſneſs did ſhine more clear,</l>
+               <l>And Truth more plain &amp; obvious did appear.</l>
+               <l>If ſome things dark, obſcure, ſeem not ſo ſound,</l>
+               <l>Pray paſs them by; ſome things herein are found</l>
+               <l>Both ſure &amp; certain Truths, &amp; plain &amp; clear,</l>
+               <l>As who reads to the end, may find. And here</l>
+               <l>As I in ſeveral Papers did them find,</l>
+               <l>Preſent them to thee with an honeſt Mind,</l>
+               <l>Believing this, they will no harm produce,</l>
+               <l>So make them publick to thee for thy uſe:</l>
+               <l>And in that <hi>Love,</hi> wherewith I them preſent,</l>
+               <l>Do but receive them, and I am content.</l>
+               <closer>
+                  <signed>N. B.</signed>
+               </closer>
+            </lg>
+            <pb facs="tcp:192198:5"/>
+            <lg>
+               <l>I Thought it well, theſe Lines came to thy Hand,</l>
+               <l>Thou wouldſt then publiſh, I did underſtand,</l>
+               <l>Becauſe thou knew'ſt the <hi>Lad,</hi> as from a Child,</l>
+               <l>Was ſober Bred, Religious bent, not wild.</l>
+               <l>For unto ſome, acceptable they'l be,</l>
+               <l>Though many paſs their days in Vanitie,</l>
+               <l>Not fearing God, not thinking of their end,</l>
+               <l>Not mattering how their precious time they ſpend,</l>
+               <l>Sporting themſelves in <hi>Pleaſures</hi> and <hi>Delight,</hi>
+               </l>
+               <l>In deeds of <hi>Darkneſs, Evil Works</hi> o'th' <hi>Night,</hi>
+               </l>
+               <l>Forgetting ſtill to Judgment they muſt come,</l>
+               <l>For their bad Deeds receive a heavy doome,</l>
+               <l>Of <hi>Go ye Curſt, depart from me, I ſay,</hi>
+               </l>
+               <l>
+                  <hi>You workers of Iniquity, away:</hi>
+               </l>
+               <l>This is the ſentence, Chriſt the Judge will give</l>
+               <l>To thoſe in Pleaſures liv'd, dead while they live.</l>
+               <closer>
+                  <signed>J. C.</signed>
+               </closer>
+            </lg>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:192198:5"/>
+            <head>The CONTENTS.</head>
+            <list>
+               <item>AN Introduction.</item>
+               <item>Concerning the Works of God.</item>
+               <item>The Serpents Subtilty.</item>
+               <item>The Serpents Puniſhment.</item>
+               <item>The Womans Puniſhment.</item>
+               <item>The Mans Puniſhment.</item>
+               <item>
+                  <hi>Cain</hi> the firſt Murderer about Religion.</item>
+               <item>
+                  <hi>Cain</hi>'s Puniſhment.</item>
+               <item>To remember thy Creator in the dayes of thy Youth.</item>
+               <item>That Self, more than <hi>Adam</hi> is to be blamed for ſinning.</item>
+               <item>Several Petitions and Prayers to God, to be taught of him.</item>
+               <item>Some Directions where to find <hi>Wiſdom,</hi> with a Pſalm on her Praiſe. And concerning the manner of her appearing. Alſo, Reproof to thoſe that talk of Righteouſneſs, and live in Sin. And to thoſe that profeſs the Truth, and don't live in the Power of it. With a word to the Haters and Deſpiſers of the Grace of God.</item>
+               <item>A Prayer.</item>
+               <item>An Alphabet of Two Lines.</item>
+               <item>An Alphabet of One Line.</item>
+               <item>Concerning Out-ſide Profeſſors.</item>
+               <item>A Call to Old and Young, to behold the Day of God, now dawned and broken forth.</item>
+               <pb facs="tcp:192198:6"/>
+               <item>Concerning God and Chriſt bearing the Name of Light. And concerning the Glorious Day of Light.</item>
+               <item>Concerning divine Love.</item>
+               <item>An Exhortation to dwell in Love.</item>
+               <item>Chriſt the true Light, Chriſt the Son of Gods Love.</item>
+               <item>A Salutation of Love to <hi>J. C. &amp;c.</hi>
+               </item>
+               <item>Concerning bearing the heavenly Image.</item>
+               <item>Concerning a Righteous Mans Work, and a Wicked Mans Work; to what each tendeth.</item>
+               <item>A Complaint againſt <hi>New-England</hi> Profeſſors.</item>
+               <item>Concerning Perſecution.</item>
+               <item>Another Prayer.</item>
+               <item>Concerning the Philoſophers Stone.</item>
+               <item>Concerning Covetouſneſs.</item>
+               <item>Concerning Pride, Avarice and Luxury.</item>
+               <item>Concerning Temperance, Health and Happineſs.</item>
+               <item>Concerning the Croſs of Chriſt.</item>
+               <item>Concerning the Souls Travail.</item>
+               <item>Concerning the breaking forth of the Word and Power of God.</item>
+               <item>Concerning Gods powerful and glorious Preſence.</item>
+               <item>Concerning Maintenance for the Poor.</item>
+               <item>Concerning the <g ref="char:V">Ʋ</g>ncertainty of Worldly Riches.</item>
+               <item>A Lamentation and Warning for <hi>England.</hi> By the Author, <hi>B. A.</hi>
+               </item>
+               <item>To which is added, A Tripple-Plea, by <hi>T. C.</hi>
+               </item>
+               <item>And ſome Lines written by <hi>J. C.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="poems">
+            <pb n="1" facs="tcp:192198:6"/>
+            <div type="part">
+               <div type="section">
+                  <head>The Introduction.</head>
+                  <lg>
+                     <l>BEfore that <hi>Light</hi> or <hi>Darkneſs</hi> did Appear,</l>
+                     <l>When th' Earth lay void, and all things now in't were</l>
+                     <l>As nothing, then <hi>Iehovah,</hi> faſhioned all;</l>
+                     <l>By th' <hi>Word</hi> Created hee both great and ſmall;</l>
+                     <l>The <hi>Sun, Moon, Stars,</hi> and all i'th' Heavens be,</l>
+                     <l>The <hi>Day,</hi> the <hi>Night,</hi> the <hi>Dry Land,</hi> and the <hi>Sea;</hi>
+                     </l>
+                     <l>The Lord <hi>Iehovah,</hi> hath all theſe things made,</l>
+                     <l>Yea, they were formed by the <hi>Word, He ſaid.</hi>
+                     </l>
+                     <l>But when made God, the Heavens, Earth, and Light,</l>
+                     <l>'Twas i'th' beginning, as doth <hi>Moſes</hi> write.</l>
+                     <l>By th' Word <hi>Beginning,</hi> we muſt underſtand,</l>
+                     <l>Not from Eternity, God made the Land,</l>
+                     <l>Or ought therein, but firſt of all, before</l>
+                     <l>Fiſhes did ſwim or <hi>Fowls</hi> i'th' Air ſoare,</l>
+                     <l>That is, before God did create the <hi>Whale,</hi>
+                     </l>
+                     <l>Which is the firſt of all things Animale,</l>
+                     <l>'Twan't from Eternity the World was made,</l>
+                     <l>But then when time, its firſt beginning had.</l>
+                     <l>And why did <hi>Moſes</hi> write, and thus declare</l>
+                     <l>To us, that theſe things i'th' beginning were?</l>
+                     <l>Firſt, to confute, or that we might not be</l>
+                     <l>Deceiv'd by thoſe maintain its Eternitie;</l>
+                     <l>For if that People ſeriouſly do mind</l>
+                     <l>To know the Truth, i'th' Scriptures they may find,</l>
+                     <l>That from <hi>Eternity, Eternal</hi> none</l>
+                     <l>Is, but <hi>Iehovah,</hi> who's the <hi>Holy Oue,</hi>
+                     </l>
+                     <pb n="2" facs="tcp:192198:7"/>
+                     <l>Although 'tis ſo, that World to come, we ſay,</l>
+                     <l>
+                        <hi>Is without End;</hi> yet this World goes away,</l>
+                     <l>And as ſome ſay, that what e're had beginning,</l>
+                     <l>As had this World, muſt alſo have an ending.</l>
+                     <l>Some do not ſtick, to ſay, <hi>A Generation</hi>
+                     </l>
+                     <l>
+                        <hi>Of men there were, before</hi> Adam's <hi>Creation,</hi>
+                     </l>
+                     <l>And that <hi>there was a World, before was he,</hi>
+                     </l>
+                     <l>If we them credit, and no further ſee,</l>
+                     <l>Or rather unto <hi>Moſes</hi> Writings may</l>
+                     <l>Incline our Ears to hear what he doth ſay</l>
+                     <l>Concerning the Creation of Mankind:</l>
+                     <l>The firſt man, God created, (as we find)</l>
+                     <l>Was <hi>Adam,</hi> unto whom Dominion he</l>
+                     <l>Had given him, o're <hi>Birds, Beaſts,</hi> and <hi>Fiſh</hi> i'th' Sea;</l>
+                     <l>'Twas he to whom God brought the <hi>Fowls</hi> that fly,</l>
+                     <l>And <hi>Creeping things</hi> that on their Bellies lie;</l>
+                     <l>The <hi>Cattel</hi> all, and <hi>Beaſts</hi> both wild and tame</l>
+                     <l>Were brought to <hi>Adam</hi> that he might them name,</l>
+                     <l>By which, mayn't I there Sayings here diſprove;</l>
+                     <l>For was a World, then what did in it move?</l>
+                     <l>Did <hi>Fowls</hi> o'th' Air, <hi>Fiſhes,</hi> and <hi>Beaſts</hi> o'th' Field,</l>
+                     <l>Who gave them Names, and to whom did <hi>Trees</hi> yield</l>
+                     <l>Their Fruit; God gave to <hi>Adam</hi> for to feed</l>
+                     <l>On every Tree and Herb that beareth Seed.</l>
+                     <l>Though <hi>Atheiſts</hi> dream, and <hi>Heatheniſh</hi> People fain</l>
+                     <l>Fabulous like, their Fancies would maintain;</l>
+                     <l>Yet thoſe themſelves deem <hi>Chriſtians,</hi> they ought not</l>
+                     <l>Open their Ears to hear, but rather ſhut</l>
+                     <l>And cloſe their Ears, than hear the Tales of ſuch</l>
+                     <l>Thoſe things do broach, invalid Scripture much.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>Concerning the Works of God.</head>
+                  <lg>
+                     <pb n="3" facs="tcp:192198:7"/>
+                     <l>HOw doth the <hi>Sun</hi> and <hi>Moon,</hi> God's work declare?</l>
+                     <l>The glittering <hi>Stars,</hi> which in the Heavens are;</l>
+                     <l>The <hi>Hills,</hi> the <hi>Mountains,</hi> and the <hi>Valleys</hi> low,</l>
+                     <l>The <hi>Works</hi> of <hi>God,</hi> and his great Power do ſhow:</l>
+                     <l>The <hi>Woods,</hi> the <hi>Trees,</hi> the <hi>Buſhes,</hi> and the <hi>Bowers,</hi>
+                     </l>
+                     <l>The <hi>Herbs,</hi> the <hi>Graſs,</hi> and all the <hi>Garden <hi>Flowers;</hi>
+                        </hi>
+                     </l>
+                     <l>The <hi>Tender <hi>Plants,</hi>
+                        </hi> which from the Earth do ſpring,</l>
+                     <l>Praiſes to God from time to time do ſing;</l>
+                     <l>The rowling foaming <hi>Waves</hi> his Might do ſhow,</l>
+                     <l>The Hard congealed <hi>Ice,</hi> and Milk-white <hi>Snow;</hi>
+                     </l>
+                     <l>The <hi>Fountains,</hi> and the <hi>Meadows</hi> every one,</l>
+                     <l>The running <hi>Brooks,</hi> and clear <hi>Springs</hi> make him known:</l>
+                     <l>The <hi>Fowls</hi> o'th Air, the <hi>Birds</hi> in time of Spring</l>
+                     <l>Moſt ſweet melodious Harmonies do ſing.</l>
+                     <l>The roaring <hi>Lyon,</hi> and the <hi>Vnicorn,</hi>
+                     </l>
+                     <l>The firey <hi>Dragon,</hi> all God's Power adorn.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>Diſobedience the firſt Sin of the World.</head>
+                  <lg>
+                     <l>BEhold the ſubtil <hi>Serpent's</hi> Subtilneſs,</l>
+                     <l>Who to the <hi>Woman,</hi> thus made his Addreſs,</l>
+                     <l>Saying unto <hi>Her, <hi>Hath God ſaid unto thee,</hi>
+                        </hi>
+                     </l>
+                     <l>
+                        <hi>Thou ſhalt not eat o'th' Fruit on every Tree?</hi>
+                     </l>
+                     <l>Then ſaid the Woman, thus to him indeed,</l>
+                     <l>
+                        <hi>The Lord hath given unto us to feed</hi>
+                     </l>
+                     <l>
+                        <hi>On every Tree, ſave that i'th' midſt doth ſtand,</hi>
+                     </l>
+                     <l>
+                        <hi>To which <hi>We</hi> may in no wiſe lift our Hand,</hi>
+                     </l>
+                     <pb n="4" facs="tcp:192198:8"/>
+                     <l>
+                        <hi>Leſt that <hi>We</hi> dye.</hi> The Serpent he ſaid, <hi>No,</hi>
+                     </l>
+                     <l>
+                        <hi>Ye ſhall not dye at all; But God doth know</hi>
+                     </l>
+                     <l>
+                        <hi>That when <hi>Ye</hi> eat <hi>Thereof,</hi> then <hi>Ye</hi> ſhall ſee,</hi>
+                     </l>
+                     <l>
+                        <hi>And like to Gods, (knowing Good and Evil) be.</hi>
+                     </l>
+                     <l>The <hi>Tree</hi> being good, and pleaſant to the Eyes,</l>
+                     <l>A <hi>Tree</hi> to be deſir'd to make one wiſe,</l>
+                     <l>
+                        <hi>She</hi> took the <hi>Fruit</hi> thereof, did eat, ſaying, <hi>Lo,</hi>
+                     </l>
+                     <l>
+                        <hi>Take this, <hi>O Husband.</hi>
+                        </hi> He did eat alſo,</l>
+                     <l>Their Eyes being open'd, knew they naked were,</l>
+                     <l>And to make Breeches, Fig-Leaves did prepare.</l>
+                     <l>Soon after this, the Voice of God <hi>They</hi> hear,</l>
+                     <l>Walking i'th' <hi>Garden,</hi> which made <hi>Them</hi> to fear.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>The Serpent's Puniſhment.</head>
+                  <lg>
+                     <l>THe <hi>Serpent's</hi> puniſh'd three wayes, Firſt,</l>
+                     <l>He of all Creatures moſt is curſt;</l>
+                     <l>Next, on <hi>His</hi> Belly goes, not feet;</l>
+                     <l>And Laſt, the Duſt o'th' Earth muſt eat.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>The Woman's Puniſhment.</head>
+                  <lg>
+                     <l>IN Sorrow thy Conceptions are,</l>
+                     <l>In Sorrow <hi>Thou</hi> ſhalt Children bare;</l>
+                     <l>To Man ſhall <hi>Thy</hi> deſires be,</l>
+                     <l>Thy Husband ſhall rule over <hi>Thee.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>The Man's Puniſhment.</head>
+                  <lg>
+                     <l>
+                        <hi>ADam,</hi> that did his <hi>Eve</hi> obey,</l>
+                     <l>And do the thing which God ſaid <hi>Nay.</hi>
+                     </l>
+                     <pb n="5" facs="tcp:192198:8"/>
+                     <l>The <hi>Ground</hi> was <hi>curſed</hi> for <hi>His <hi>Sin,</hi>
+                        </hi>
+                     </l>
+                     <l>Then <hi>Thorns</hi> and <hi>Thiſtles</hi> grow therein;</l>
+                     <l>In Sorrow all his days muſt eat,</l>
+                     <l>With ſweat o'th' Brows, his Bread, his Meat,</l>
+                     <l>Till to the Earth, thou go, thou Duſt,</l>
+                     <l>For thereunto return, thou muſt.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>Cain was the firſt Murderer about Religion.</head>
+                  <lg>
+                     <l>
+                        <hi>CAin</hi> was the firſt, we read of Till'd the Land,</l>
+                     <l>And <hi>Abel</hi> us'd oft by the Flock to ſtand;</l>
+                     <l>And in proceſs of time, <hi>Cain</hi> hap't to take</l>
+                     <l>O'th' Fruit o'th' Ground, an <hi>Offering</hi> for to make</l>
+                     <l>Unto the Lord; and <hi>Abel</hi> brought alſo</l>
+                     <l>The Firſtlings of the Flock, and Fat, to go</l>
+                     <l>To offer up to God, who did reſpect</l>
+                     <l>HIS Sacrifiee: But <hi>Cain's</hi> he did reject.</l>
+                     <l>Then <hi>Cain</hi> was Wrath, his Countenance ſoon chang'd,</l>
+                     <l>Thus ſaid the Lord to <hi>Him, <hi>Why art thou ſtrange?</hi>
+                        </hi>
+                     </l>
+                     <l>
+                        <hi>If well <hi>thou</hi> doſt, <hi>thou</hi> ſhalt accepted be;</hi>
+                     </l>
+                     <l>
+                        <hi>If ill <hi>thou</hi> doſt, Sin at <hi>thy</hi> Door doth lie.</hi>
+                     </l>
+                     <l>Soon after that, <hi>Cain</hi> talk'd with <hi>Abel,</hi> when</l>
+                     <l>They were i'th' Field, <hi>he</hi> ſlew his Brother, then</l>
+                     <l>Thus ſaid the Lord to <hi>Cain, <hi>What haſt done? I,</hi>
+                        </hi>
+                     </l>
+                     <l>
+                        <hi>The voice o'th' Brothers Blood from th' Earth hear cry.</hi>
+                     </l>
+                     <l>But how hap't this? or what's the cauſe I pray,</l>
+                     <l>That <hi>Cain</hi> his Brother <hi>Abel,</hi> thus did ſlay?</l>
+                     <l>'Twas <hi>Envy,</hi> for in that he did proceed</l>
+                     <l>To execute this <hi>Bloody treacherous deed,</hi>
+                     </l>
+                     <l>Becauſe the Lord, the Sacrifice of <hi>Cain</hi>
+                     </l>
+                     <l>Rejected, and accepted <hi>his,</hi> was ſlain.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>Cain's Puniſhment.</head>
+                  <lg>
+                     <pb n="6" facs="tcp:192198:9"/>
+                     <l>WHat <hi>Puniſhment,</hi> to <hi>Cain</hi> was ſent,</l>
+                     <l>And what <hi>Plague,</hi> fell upon</l>
+                     <l>
+                        <hi>Him, Curſt</hi> was <hi>he,</hi> of God, to be</l>
+                     <l>For e're a <hi>Vagabon.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <lg>
+                     <l>REmember thy <hi>Creator</hi> in the <hi>prime</hi>
+                     </l>
+                     <l>O'th' Youth, before the <hi>Evil dayes</hi> or <hi>time</hi>
+                     </l>
+                     <l>Come, when thou'lt ſay, <hi>I take no Pleaſure in</hi>
+                     </l>
+                     <l>
+                        <hi>The Years and Days that lately I have ſeen.</hi>
+                     </l>
+                     <l>Whilſt <hi>Light</hi> o'th' <hi>Sun,</hi> o'th' <hi>Moon,</hi> o'th' <hi>Stars</hi> remain,</l>
+                     <l>Before the <hi>Clouds</hi> return, after the Rain;</l>
+                     <l>That's whilſt thy Eyes lend to thy Body light,</l>
+                     <l>As doth the <hi>Sun</hi> by day, the <hi>Moon</hi> by night;</l>
+                     <l>Or <hi>Cloud</hi> return after the Rain, (that is)</l>
+                     <l>Before <hi>ſtark Blindneſs,</hi> as a <hi>dark Cloud</hi> ſeize,</l>
+                     <l>Upon thine Eyes, when many a <hi>woful Tear,</hi>
+                     </l>
+                     <l>With Humors, have them waſht from <hi>Year</hi> to <hi>Year,</hi>
+                     </l>
+                     <l>When the Houſe-keepers, and the ſtrong men all</l>
+                     <l>Shall bow themſelves, and tremble like to fall.</l>
+                     <l>The <hi>Grinders</hi> ceaſe, becauſe they are but few,</l>
+                     <l>And thoſe look out o'th' Windows, dark ſhall ſhew.</l>
+                     <l>The ſtrong men are the Legs, as Pillars ſtands</l>
+                     <l>The keepers of the Houſe, the Arms and Hands</l>
+                     <l>Which with the <hi>Paulſie</hi> waggel, ſhake and ſhiver</l>
+                     <l>The Legs, though Props, ſhall tremble, bow and quiver.</l>
+                     <l>And in the <hi>Street,</hi> the <hi>Door</hi> then ſhut ſhall be,</l>
+                     <l>When noiſe (or ſound) o'th' Grindings low, and he</l>
+                     <pb n="7" facs="tcp:192198:9"/>
+                     <l>At Voice o'th' <hi>little Bird</hi> ſhall riſe, and all</l>
+                     <l>His <hi>ſinging Daughters,</hi> their attention fall;</l>
+                     <l>That's when thy <hi>Ears</hi> have paſt <hi>Muſical</hi> ſeaſon,</l>
+                     <l>And can't attend to hear, <hi>Deafneſs</hi> the reaſon.</l>
+                     <l>The Door without, that is the <hi>Mouth,</hi> ſo faint</l>
+                     <l>As can't be open'd, but by ſome conſtraint.</l>
+                     <l>The riſing up at voice o'th' <hi>Bird,</hi> doth ſhow</l>
+                     <l>
+                        <hi>Old Age</hi> is wakened, even with Cock-crow.</l>
+                     <l>When <hi>Men</hi> ſhall be afraid of that is high,</l>
+                     <l>And likewiſe in the Way, they fear eſpy;</l>
+                     <l>That's when they climb, <hi>Fear</hi> doth poſſeſs them, and</l>
+                     <l>They <hi>ſtumble</hi> likewiſe on the <hi>Plain</hi> they ſtand.</l>
+                     <l>When th' <hi>Almond Tree</hi> ſhall flouriſh, that (i'le ſhow)</l>
+                     <l>Is when thy <hi>Head,</hi> ſhall with <hi>white Fleeces</hi> grow.</l>
+                     <l>When the <hi>Graſhoppers</hi> ſhall a burden be,</l>
+                     <l>That's when thy <hi>Legs, gouty</hi> are, and <hi>craſie.</hi>
+                     </l>
+                     <l>When all <hi>Concupiſcience</hi> from thee's gone quite,</l>
+                     <l>That to thy <hi>Meat,</hi> thou haſt ſmall Appetite.</l>
+                     <l>Or e're the <hi>Silver Cord</hi> be loos'd, or ſlack't,</l>
+                     <l>Or <hi>Golden Bowle</hi> be broke, or <hi>Pitcher</hi> crack't;</l>
+                     <l>Or <hi>Wheel</hi> at <hi>Ceſtern</hi> broke, that is, ſaith one,</l>
+                     <l>
+                        <hi>The nervous Pinacles to th' <g ref="char:V">Ʋ</g>rine gone.</hi>
+                     </l>
+                     <l>The <hi>Silver Cord,</hi> the <hi>Back-Bone</hi> ſtretched out,</l>
+                     <l>And <hi>golden Bowle,</hi> the <hi>Heart,</hi> whence <hi>Life</hi> doth ſprout.</l>
+                     <l>The <hi>Pitcher</hi> broke, at <hi>Fountain</hi> doth narrate,</l>
+                     <l>The heat o'th' <hi>Liver</hi> loſt, the <hi>Stomachs</hi> fate.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <pb n="8" facs="tcp:192198:10"/>
+                  <lg>
+                     <l>THough <hi>Sin</hi> at firſt, on all, through <hi>Adam</hi> came;</l>
+                     <l>Yet let not <hi>him,</hi> (but <hi>Self)</hi> bare all the blame.</l>
+                     <l>For as I heard, perhaps the thing was true;</l>
+                     <l>A <hi>Rich Man,</hi> to a <hi>Poor Man,</hi> this did ſhew,</l>
+                     <l>Set him to work, who dig'd i'th' Ditch apace,</l>
+                     <l>Till ſweat o'th' Brows did trickle down his Face;</l>
+                     <l>Then toſſing up the Earth with <hi>Shou'l</hi> or <hi>Spade,</hi>
+                     </l>
+                     <l>This Cry did utter, and theſe Words he ſaid,</l>
+                     <l>
+                        <hi>O Adam! Adam! Adam!</hi> And hard-by</l>
+                     <l>His Maſter walking, thus did hear him cry,</l>
+                     <l>And to him call'd; <hi>Friend, why doſt Adam blame?</hi>
+                     </l>
+                     <l>O Sir! (ſaid he) I need not tell the ſame,</l>
+                     <l>'Tis full well known how I by <hi>Adam's</hi> fall,</l>
+                     <l>Not only I, but <hi>We</hi> his <hi>Off-ſpring</hi> all;</l>
+                     <l>As he himſelf, with ſweat o'th' Face i'th' Duſt</l>
+                     <l>Muſt work, ſince <hi>he</hi> from <hi>Paradiſe</hi> was thruſt.</l>
+                     <l>Had <hi>He</hi> not ſin'd, we'd not ſubjected bin,</l>
+                     <l>Think I to work i'th' Earth: But for his <hi>Sin</hi>
+                     </l>
+                     <l>God ſent him forth to Till the Earth: <hi>He</hi> came</l>
+                     <l>From it, and to 't <hi>he</hi> muſt return again.</l>
+                     <l>
+                        <hi>Thou <hi>Adam</hi> blames; but how if in his ſtead</hi>
+                     </l>
+                     <l>
+                        <hi>Thou wert, then thou wouldſt do juſt as he did.</hi>
+                     </l>
+                     <l>
+                        <hi>For this obſerve, theſe</hi> Words <hi>I ſpeak to thee,</hi>
+                     </l>
+                     <l>
+                        <hi>Caſt down thy Spade, leave Work, and follow me.</hi>
+                     </l>
+                     <l>
+                        <hi>If my <hi>Command</hi> and <hi>Precept</hi> thou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lt obey,</hi>
+                     </l>
+                     <l>
+                        <hi>Two ſtrokes of Work thou ſhalt not do all day;</hi>
+                     </l>
+                     <l>
+                        <hi>But live at eaſe, and from thy Labour ceaſe,</hi>
+                     </l>
+                     <l>
+                        <hi>Taking thy Reſt in Safety and in Peace.</hi>
+                     </l>
+                     <pb n="9" facs="tcp:192198:10"/>
+                     <l>
+                        <hi>If this my <hi>one Command</hi> thou keep, 'tis ſmall,</hi>
+                     </l>
+                     <l>
+                        <hi>Thou ſhalt not want for any thing, but all</hi>
+                     </l>
+                     <l>
+                        <hi>Thou canſt deſire, to <hi>thee</hi> I'le freely give,</hi>
+                     </l>
+                     <l>
+                        <hi>And <hi>thou</hi> as 'twere in <hi>Paradiſe</hi> ſhalt live.</hi>
+                     </l>
+                     <l>
+                        <hi>Thou at my Table ſhalt ſet down to Meat,</hi>
+                     </l>
+                     <l>
+                        <hi>And eke Diurnal of my Banquets eat</hi>
+                     </l>
+                     <l>
+                        <hi>Of Diſhes rare, of every Meſs but <hi>one,</hi>
+                        </hi>
+                     </l>
+                     <l>
+                        <hi>Which ſhall be cover'd, look not thereon;</hi>
+                     </l>
+                     <l>
+                        <hi>I mean not that <hi>thou</hi> may not ſee th' out-ſide,</hi>
+                     </l>
+                     <l>
+                        <hi>But don't uncover't; in <hi>thy</hi> place abide;</hi>
+                     </l>
+                     <l>
+                        <hi>Luſt not to know what 'tis, but do refrain</hi>
+                     </l>
+                     <l>
+                        <hi>From touching it, if I thee entertain:</hi>
+                     </l>
+                     <l>
+                        <hi>Then if <hi>thou</hi> doſt this <hi>one Command</hi> obey,</hi>
+                     </l>
+                     <l>
+                        <hi>And keep my Precept, <hi>thou</hi> ſhalt with me ſtay,</hi>
+                     </l>
+                     <l>
+                        <hi>Living at Eaſe, with Comfort, Joy and Pleaſure,</hi>
+                     </l>
+                     <l>
+                        <hi>Riſe when <hi>thou</hi> wilt, and lie down at <hi>thy</hi> pleaſure.</hi>
+                     </l>
+                     <l>
+                        <hi>Touch not the Meſs, the Diſh uncover not,</hi>
+                     </l>
+                     <l>
+                        <hi>But let it ſtand alway cloſ'd up and ſhut.</hi>
+                     </l>
+                     <l>
+                        <hi>So whilſt thou doſt this <hi>my Command</hi> obey,</hi>
+                     </l>
+                     <l>
+                        <hi>Within my Houſe <hi>thou</hi> may'ſt be ſure to ſtay:</hi>
+                     </l>
+                     <l>
+                        <hi>But if my <hi>Precept</hi> thou do not obſerve,</hi>
+                     </l>
+                     <l>
+                        <hi>But diſobey, and from my <hi>Counſel</hi> ſwerve,</hi>
+                     </l>
+                     <l>
+                        <hi>Then of my Dainties rare, <hi>thou</hi> mayſt not feed,</hi>
+                     </l>
+                     <l>
+                        <hi>But from my Houſe ſhalt be expel'd indeed.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>So, for ſome time, this Poor Man he remain'd</l>
+                     <l>Within the Houſe, being bravely entertain'd;</l>
+                     <l>For <hi>he</hi> had all his Heart could well deſire,</l>
+                     <l>Food in due ſeaſon; when cold, a good Fire;</l>
+                     <l>If weary, then a Bed, his Bones to reſt:</l>
+                     <l>Surely (thinks he) now I am greatly bleſt!</l>
+                     <pb n="10" facs="tcp:192198:11"/>
+                     <l>But on a time, when <hi>he</hi> to <hi>Dinner</hi> went,</l>
+                     <l>Sate down at <hi>Table,</hi> none being there preſent.</l>
+                     <l>Then in <hi>his</hi> mind it ſecretly did ſpring,</l>
+                     <l>This is the time to ſee what's in this thing:</l>
+                     <l>So up <hi>he</hi> ſtarts, the <hi>Diſh</hi> uncovers, then</l>
+                     <l>Out leaps a <hi>Mouſe,</hi> away it runs; and when</l>
+                     <l>He ſees this <hi>Meſs,</hi> no other Rarity had</l>
+                     <l>
+                        <hi>Forbidden Fruit,</hi> to take, doth make him ſad.</l>
+                     <l>In comes his Maſter, who brought him to his Houſe;</l>
+                     <l>
+                        <hi>What now!</hi> (ſaith he) <hi>Why ſad? Haſt ſeen the Mouſe?</hi>
+                     </l>
+                     <l>Yea, (quoth the Man) I in the <hi>Diſh</hi> did peep,</l>
+                     <l>And ſuddainly a <hi>Mouſe</hi> there out did leap.</l>
+                     <l>So ſays his Lord, <hi>Now ſee, leave off for ſhame,</hi>
+                     </l>
+                     <l>
+                        <hi>No more blame <hi>Adam, Self's</hi> only to blame:</hi>
+                     </l>
+                     <l>
+                        <hi>When <hi>Adam</hi> ſin'd, from Paradiſe he went:</hi>
+                     </l>
+                     <l>
+                        <hi>So haſt <hi>thou</hi> now broke my Commandment,</hi>
+                     </l>
+                     <l>
+                        <hi>And from my</hi> Houſe <hi>and</hi> Table <hi>thou <hi>muſt go,</hi>
+                        </hi>
+                     </l>
+                     <l>
+                        <hi>Becauſe what in the</hi> Diſh <hi>was, <hi>thou</hi> wouldſt know.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Couldſt thou have been contented in thy place,</hi>
+                     </l>
+                     <l>
+                        <hi>Thou happy wert; but now art in diſgrace,</hi>
+                     </l>
+                     <l>
+                        <hi>And to <hi>thy</hi> Work i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>th' Ground, with ſweat o'th' Brow,</hi>
+                     </l>
+                     <l>
+                        <hi>Return again, <hi>thy Mind</hi> to digging bow;</hi>
+                     </l>
+                     <l>
+                        <hi>And learn for time to come, content to be,</hi>
+                     </l>
+                     <l>
+                        <hi>When placed where <hi>thou</hi> mayst live ſo happily;</hi>
+                     </l>
+                     <l>
+                        <hi>And learn for time to come, not <hi>Adam</hi> blame,</hi>
+                     </l>
+                     <l>
+                        <hi>But <hi>Self, Self do, Self have,</hi> 'tis still the ſame.</hi>
+                     </l>
+                     <l>If this be ſo, although the caſe was ſad,</l>
+                     <l>Yet 'twas no more than his Deſert he had.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <pb n="11" facs="tcp:192198:11"/>
+                  <lg>
+                     <l>TEach me, O Lord, thy <hi>Fear,</hi> which will begin</l>
+                     <l>
+                        <hi>Wiſdom</hi> in me, and lead me from my <hi>Sin.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Teach me, O Lord, thy <hi>Truth,</hi> and I thy Fame</l>
+                     <l>Will ſpread abroad, truſting in th' holy Name.</l>
+                  </lg>
+                  <lg>
+                     <l>Teach me, O Lord, of <hi>One Accord</hi> to be</l>
+                     <l>And of <hi>One mind,</hi> with <hi>Thoſe</hi> that <hi>Truſt in Thee.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Teach me, O Lord, that I acquainted may</l>
+                     <l>Be with the <hi>Children</hi> of the <hi>Light</hi> and <hi>Day.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Teach me, O Lord, by thine <hi>Admoniſhment,</hi>
+                     </l>
+                     <l>In all eſtates, fully to be <hi>Content.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Teach me, O Lord, for to rehearſe thy <hi>Acts,</hi>
+                     </l>
+                     <l>And let my Hands commit no <hi>Bloody Facts.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Teach me, O Lord, according to thy Will,</l>
+                     <l>To ask in <hi>Faith,</hi> that thou my Heart may fill.</l>
+                  </lg>
+                  <lg>
+                     <l>Teach me, O Lord, my Wayes for to amend,</l>
+                     <l>And grant I may to <hi>Idols</hi> never bend.</l>
+                  </lg>
+                  <lg>
+                     <l>Teach me, O Lord, when <hi>Vain Thoughts</hi> do ariſe,</l>
+                     <l>I Chriſtlan-like by Prayer them ſurpriſe.</l>
+                  </lg>
+                  <lg>
+                     <l>Teach me, O Lord, by thy <hi>Eternal</hi> Might</l>
+                     <l>Againſt thy Foes, couragiouſly to fight.</l>
+                  </lg>
+                  <lg>
+                     <l>Teach me, O Lord, that I may never <hi>Mock</hi>
+                     </l>
+                     <l>At <hi>Sin</hi> as Fools, nor be a <hi>Laughing-ſtock.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <pb n="12" facs="tcp:192198:12"/>
+                     <l>Teach me, O Lord, <hi>Offences</hi> for to take;</l>
+                     <l>Yea, <hi>ten times</hi> told, rather than <hi>once one</hi> make.</l>
+                  </lg>
+                  <lg>
+                     <l>Teach me, O Lord, as I deſire of <hi>Thee</hi>
+                     </l>
+                     <l>To be forgiven, to <hi>Forgive Injurie.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Teach me, O Lord, to ſlight all <hi>Earthly Toyes,</hi>
+                     </l>
+                     <l>And let my Heart be fixt on <hi>Heavenly Ioyes.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Teach me, O Lord, a <hi>true account</hi> to give,</l>
+                     <l>Even of my <hi>Stewardſhip</hi> whilſt that I live.</l>
+                  </lg>
+                  <lg>
+                     <l>Teach me, O Lord, that I my <hi>Sins</hi> to thee</l>
+                     <l>May all <hi>confeſs,</hi> and by Chriſt be ſet free.</l>
+                  </lg>
+                  <lg>
+                     <l>Teach me, O Lord, by <hi>Divine Inſpiration,</hi>
+                     </l>
+                     <l>To ſound thy Praiſe, amidſt a <hi>Crooked Nation.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Teach me, O Lord, that <hi>what</hi> in Hand I take,</l>
+                     <l>With <hi>Wiſdom</hi> I accompliſhment may make.</l>
+                  </lg>
+                  <lg>
+                     <l>Teach me, O Lord, <hi>Ambitious Pride</hi> to ſhun,</l>
+                     <l>That nought may be <hi>Miſ-thought, Miſ-ſaid, Miſ-done.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <pb n="13" facs="tcp:192198:12"/>
+                  <head>
+                     <l>
+                        <hi>Some Breathings of Love, which truly do move</hi>
+                     </l>
+                     <l>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>nto ſuch, that do Wiſdom deſire,</hi>
+                     </l>
+                     <l>
+                        <hi>Declaring the Way, in which Wiſdom may</hi>
+                     </l>
+                     <l>
+                        <hi>Be found of thoſe, for her enquire.</hi>
+                     </l>
+                  </head>
+                  <lg>
+                     <l>WHo ſeeks for <hi>Wiſdom,</hi> and would <hi>Virtue</hi> find?</l>
+                     <l>A ſecret Treaſure, and a quiet Mind,</l>
+                     <l>A fruitful <hi>City,</hi> and a pleaſant <hi>Hill,</hi>
+                     </l>
+                     <l>Whoſe glorious Proſpect <hi>Sharon's Roſe</hi> doth fill,</l>
+                     <l>Dropping down <hi>Virtues</hi> Diſtillations ſweet,</l>
+                     <l>Cooling the Sons of <hi>Zions</hi> ardent heat,</l>
+                     <l>Whoſe ſtrong Deſires, as lively Sparks aſpire</l>
+                     <l>Still upwards, as doth naturally the Fire.</l>
+                     <l>Its Scituation towards the <hi>East</hi> doth ſtand,</l>
+                     <l>(Or riſing of the <hi>Sun</hi> its Soil or Land;</l>
+                     <l>Its F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rtile Pleaſant, Amiable and Faire,</l>
+                     <l>Which <hi>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſhans Oaks,</hi> and <hi>Lebanon's Cedars</hi> bare,</l>
+                     <l>With all the ſtately <hi>Trees</hi> o th <hi>Forreſt,</hi> and</l>
+                     <l>The choiceſt Garden-<hi>Spices,</hi> in this Land</l>
+                     <l>Do grow, as <hi>Myrrh, Spikn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rd</hi> and <hi>Cinamon;</hi>
+                     </l>
+                     <l>With Trees of <hi>Mence, Calamus</hi> and <hi>Saffron.</hi>
+                     </l>
+                     <l>A goodly Place 'tis, pleaſant to the Eyes,</l>
+                     <l>A Place to be deſir'd, where dwell the <hi>Miſe,</hi>
+                     </l>
+                     <l>And <hi>Prudent Minds,</hi> who value <hi>Vertue</hi> more</l>
+                     <l>Than <hi>precious Stones,</hi> or <hi>Gold</hi> within the <hi>Ore;</hi>
+                     </l>
+                     <l>Becauſe compar'd unto <hi>Her,</hi> all things are</l>
+                     <l>But Droſs and Dung. A <hi>Spotleſs Virgin</hi> faire,</l>
+                     <pb n="14" facs="tcp:192198:13"/>
+                     <l>In <hi>whoſe</hi> Right-hand is <hi>Time,</hi> with length of Dayes,</l>
+                     <l>
+                        <hi>Her</hi> Left-hand <hi>Honour, Riches;</hi> all <hi>her Wayes</hi>
+                     </l>
+                     <l>Are <hi>Paths</hi> of <hi>perfect Peace,</hi> and Pleaſantneſs</l>
+                     <l>With <hi>her's</hi> great Treaſure; Joy <hi>She</hi> doth poſſeſs:</l>
+                     <l>A Crown Immortal on <hi>her</hi> Head, <hi>ſhe</hi> wears,</l>
+                     <l>Deckt with bright <hi>Diamonds,</hi> like to glittering <hi>Stars.</hi>
+                     </l>
+                     <l>
+                        <hi>Her</hi> Tyer is rich, <hi>her</hi> Necklace of pure Gold;</l>
+                     <l>
+                        <hi>Her</hi> Bracelets fill'd, with precious <hi>Pearls</hi> ne'er told,</l>
+                     <l>For number, numberleſs, innumerable,</l>
+                     <l>Unto all <hi>Vertuous</hi> Minds moſt delectable.</l>
+                     <l>This is that <hi>Queen</hi> of <hi>Wiſdom,</hi> who <hi>her</hi> finds,</l>
+                     <l>A greater Treaſure hath, than all Earth's Mines</l>
+                     <l>Of <hi>Gold</hi> and <hi>Silver:</hi> For <hi>ſhee'l</hi> guide thy Way</l>
+                     <l>From <hi>Darkneſs</hi> groſs, unto <hi>Light's</hi> perfect Day.</l>
+                     <l>Who doth <hi>her</hi> ſeek, aſſuredly may find</l>
+                     <l>
+                        <hi>Her</hi> in the Cloſet of an <hi>Humble Mind,</hi>
+                     </l>
+                     <l>In which <hi>ſhe</hi> dwells, darting <hi>her</hi> Beams of Light</l>
+                     <l>Into the Heart, that <hi>ſhe</hi> diſcover might,</l>
+                     <l>The crooked Paths, and ſinful Wayes, wherein</l>
+                     <l>The ſimple Soul, a Captive long hath bin,</l>
+                     <l>To free the Soul, that if it will, it may</l>
+                     <l>Refuſe Night Darkneſs, and embrace Light's Day.</l>
+                     <l>O! then come all, who <hi>Wiſdom</hi> doth deſire,</l>
+                     <l>And thus, as once I did, for <hi>her</hi> enquire,</l>
+                     <l>Who ſought not long for <hi>her;</hi> but <hi>ſhe</hi> reveal'd</l>
+                     <l>
+                        <hi>Her</hi> dwelling in my Heart had been conceal'd.</l>
+                  </lg>
+                  <pb n="15" facs="tcp:192198:13"/>
+                  <lg>
+                     <l>To <hi>Wiſdom</hi> I my Mind will bend,</l>
+                     <l>And Underſtanding <hi>ſhe</hi> will ſend</l>
+                     <l>To me; for on <hi>her</hi> I'le depend,</l>
+                     <l>And <hi>ſhe</hi> alone ſhall be my Joy.</l>
+                  </lg>
+                  <lg>
+                     <l>I'le ſeek for <hi>her,</hi> and <hi>ſhe</hi> will be</l>
+                     <l>A <hi>Guide,</hi> delightful unto me,</l>
+                     <l>Walking i'th Paths of Equitie;</l>
+                     <l>With <hi>her</hi> alone will I rejoyce.</l>
+                  </lg>
+                  <lg>
+                     <l>Where e're I do <hi>her</hi> Works eſpye,</l>
+                     <l>They are delightful to mine Eye,</l>
+                     <l>For <hi>ſhe's</hi> of Aſſiduity.</l>
+                     <l>With thoſe that on <hi>her</hi> do depend.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>She's</hi> better than the <hi>Silver</hi> fine,</l>
+                     <l>And Richer than the <hi>Golden</hi> Mine;</l>
+                     <l>As bright as <hi>Sol</hi> himſelf doth ſhine:</l>
+                     <l>With <hi>her</hi> dwells <hi>Immortality.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>I'le prize <hi>her</hi> more, than Gold moſt pure,</l>
+                     <l>And on <hi>her,</hi> would be fixed ſure;</l>
+                     <l>For <hi>ſhe's</hi> a Rock that will endure,</l>
+                     <l>And converſant with <hi>Elohim.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>She's</hi> Comly, Beautiful and Faire;</l>
+                     <l>All precious Pearls, cannot compare,</l>
+                     <l>To <hi>her</hi> a <hi>Tree of Life</hi> ſo rare,</l>
+                     <l>And <hi>ſhe</hi> alone will I exalt.</l>
+                  </lg>
+                  <pb n="16" facs="tcp:192198:14"/>
+                  <lg>
+                     <l>THus ſeeking <hi>Wiſdom, Wiſdom</hi> as a Light</l>
+                     <l>Within my Heart, appear'd moſt glorious bright.</l>
+                     <l>Like to the ſplendor of the glorious Sun,</l>
+                     <l>Expelling <hi>Clouds,</hi> and cauſing <hi>Miſts</hi> to run</l>
+                     <l>Like ſcorched <hi>Scrowls,</hi> and vaniſh quite away,</l>
+                     <l>That <hi>Truth</hi> and <hi>Righteouſneſs</hi> might now diſplay</l>
+                     <l>Its ſelf, and put forth <hi>Fruits</hi> o'th' <hi>heavenly Vine,</hi>
+                     </l>
+                     <l>Againſt the which the <hi>Eſaubites</hi> combine:</l>
+                     <l>But let them know, their <hi>Combinations</hi> are</l>
+                     <l>To <hi>Samſon's</hi> ſtrength, no better than a Hair.</l>
+                     <l>The <hi>Stone</hi> cut out of the Mountain without Hands,</l>
+                     <l>Muſt now increaſe, and greatly fill our Lands,</l>
+                     <l>Aſſuredly, on whom this <hi>Stone</hi> doth fall,</l>
+                     <l>
+                        <hi>Its</hi> ponderous weight, to Powder grind them ſhall.</l>
+                     <l>But they are happy: Fall upon this <hi>Stone</hi>
+                     </l>
+                     <l>Whoſe Hearts are broke, with true Contrition,</l>
+                     <l>They ſhall be mollified with <hi>holy Oyle,</hi>
+                     </l>
+                     <l>And by the <hi>Lamb's Blood,</hi> cleans'd from <hi>Filth</hi> and <hi>Soyle,</hi>
+                     </l>
+                     <l>That they as <hi>Virgins</hi> pure, array'd in White,</l>
+                     <l>Prepar'd may be, to walk in <hi>Wiſdom's</hi> Light,</l>
+                     <l>
+                        <hi>Which</hi> ſhineth in their Hearts, who <hi>It</hi> obey,</l>
+                     <l>Even more and more, unto the perfect Day.</l>
+                     <l>Yea, <hi>Wiſdom</hi> cryes without, <hi>her</hi> Voice i'th' Street</l>
+                     <l>
+                        <hi>She</hi> utters loud, the Simple for to meet.</l>
+                     <l>And turn them from that Way, to Death doth lead,</l>
+                     <l>Wherein, like to Poſt, they haſte with ſpeed,</l>
+                     <l>Calling amongſt the preſs of all deſiring,</l>
+                     <l>And thronged croud of Thoughts, that <hi>We</hi> retiring</l>
+                     <pb n="17" facs="tcp:192198:14"/>
+                     <l>May ſeek for <hi>Wiſdom:</hi> O! <hi>ye Fools,</hi> ſaith <hi>ſhe,</hi>
+                     </l>
+                     <l>
+                        <hi>Why will ye dye? Return, return to me,</hi>
+                     </l>
+                     <l>
+                        <hi>That I my Mind may pour out to yon, and</hi>
+                     </l>
+                     <l>
+                        <hi>May give you Knowledge, for to underſtand</hi>
+                     </l>
+                     <l>
+                        <hi>Dark Words, and prudent Sayings of the Wiſe</hi>
+                     </l>
+                     <l>
+                        <hi>With Parables, in Wiſdom to ſurmiſe.</hi>
+                     </l>
+                     <l>And recreate your ſelves, with Solace ſweet,</l>
+                     <l>That to embrace <hi>her</hi> in your Hearts you meet;</l>
+                     <l>Then keep <hi>her,</hi> and to you <hi>ſhe'l</hi> be a Guide,</l>
+                     <l>Receive <hi>her</hi> in your Hearts, and <hi>ſhe'l</hi> abide,</l>
+                     <l>And to your <hi>Souls,</hi> with <hi>Knowledge</hi> bring delight,</l>
+                     <l>And cauſe you through <hi>her Counſel</hi> walk upright.</l>
+                     <l>O! ſeek <hi>her</hi> early, while <hi>ſhe</hi> may be found;</l>
+                     <l>
+                        <hi>She</hi> oft Inſtruction, with Reproof doth ſound,</l>
+                     <l>To thoſe <hi>her</hi> ſeeks, that they may underſtand</l>
+                     <l>The <hi>Fear of God,</hi> is the <hi>Beginning,</hi> and</l>
+                     <l>Firſt <hi>Gate of Entrance,</hi> to that <hi>City</hi> where</l>
+                     <l>None but the <hi>Sons</hi> of <hi>Vertue</hi> do appear,</l>
+                     <l>Who ſought for <hi>Wiſdom,</hi> more then Gold refin'd,</l>
+                     <l>And till they found <hi>her,</hi> could not reſt in mind,</l>
+                     <l>But rove from <hi>Hills,</hi> to <hi>barren Mountains,</hi> where</l>
+                     <l>Like <hi>ſcattered Sheep,</hi> amongſt the <hi>Wolves</hi> they were</l>
+                     <l>Grievouſly bitten, pritcht and torn with Thorns,</l>
+                     <l>Yea, often puſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> with <hi>Baſhan's Bulls</hi> Braſs-Horns,</l>
+                     <l>Till almoſt tyr'd, yet at laſt <hi>did</hi> appear;</l>
+                     <l>Where think you? even in their <hi>Hearts,</hi> moſt near</l>
+                     <l>The proper Habitation of <hi>her</hi> Reſt,</l>
+                     <l>That thoſe who ſeek, may of <hi>her</hi> be poſſeſt.</l>
+                     <l>Who ſo doth find <hi>her,</hi> hold <hi>her</hi> faſt, be ſure,</l>
+                     <l>Fot <hi>ſhe's</hi> a <hi>Rock,</hi> that will for e're endure;</l>
+                     <pb n="18" facs="tcp:192198:15"/>
+                     <l>A hiding Place, a Covert, and ſtrong Tower,</l>
+                     <l>Whereto the <hi>Righteous</hi> run, God's <hi>Arm</hi> of Power,</l>
+                     <l>His <hi>Word,</hi> by which all things created were,</l>
+                     <l>That in the <hi>Heavens, Earth, Sea</hi> and <hi>Land</hi> are.</l>
+                     <l>A <hi>Queen;</hi> before the <hi>Depths,</hi> with Honour crown'd,</l>
+                     <l>And <hi>Virgin</hi> fair, for Beauty moſt renown'd.</l>
+                     <l>He that approach into <hi>her</hi> preſence will,</l>
+                     <l>Muſt <hi>Self-deny, Self-mortifie</hi> and <hi>kill,</hi>
+                     </l>
+                     <l>And enter with the patient Crown of <hi>Job,</hi>
+                     </l>
+                     <l>And <hi>ſhe</hi> will cloath thee with a princely Robe.</l>
+                  </lg>
+                  <lg>
+                     <l>Wouldſt thou <hi>her</hi> bleſſed Company enjoy,</l>
+                     <l>Then bid adue, to all <hi>Luſts</hi> baſe annoy.</l>
+                     <l>If thou deſireſt to have <hi>her</hi> for thy Friend,</l>
+                     <l>With <hi>Peace</hi> towards all, what may be, thy Mind bend:</l>
+                     <l>For where is <hi>Peace,</hi> there <hi>Wiſdom</hi> may be found;</l>
+                     <l>But where is <hi>Strife,</hi> can any thing be ſound?</l>
+                     <l>
+                        <hi>She</hi> is a <hi>Virgin</hi> of more purer Eyes,</l>
+                     <l>Than to behold <hi>Sin's</hi> baſe Deformities.</l>
+                     <l>
+                        <hi>She</hi> is a precious Pearl, and valued high:</l>
+                     <l>Come, who can part with all, thou may <hi>her</hi> buy.</l>
+                     <l>Stay, <hi>I'm</hi> not bought with Money; nay (ſaith <hi>ſhe)</hi>
+                     </l>
+                     <l>Come, buy; come buy without Price; <hi>I</hi> am free;</l>
+                     <l>Come, buy ye <hi>Milk</hi> and <hi>Honey,</hi> is <hi>My</hi> Call;</l>
+                     <l>Come, buy <hi>without Price,</hi> 'tis free for you all:</l>
+                     <l>Why ſpend you <hi>Labour,</hi> for that is not Food,</l>
+                     <l>And <hi>Strength</hi> for that which will not do you good?</l>
+                     <l>
+                        <hi>Awake, awake,</hi> 'tis high time, ope' your Eyes,</l>
+                     <l>Obey <hi>Chriſt's Voice,</hi> let <hi>Wiſdom's Light</hi> ariſe</l>
+                     <pb n="19" facs="tcp:192198:15"/>
+                     <l>Within your Hearts, that checks for Evil; and</l>
+                     <l>Be ſure <hi>Obedience</hi> yield to <hi>Its</hi> Command,</l>
+                     <l>That as a <hi>Sword</hi> and <hi>Hammer,</hi> by great Power</l>
+                     <l>
+                        <hi>It</hi> may ſmite down, and as a Fire devour</l>
+                     <l>The Stubble; for I know the Lord demands</l>
+                     <l>The Fruits of Righteouſneſs at all your hands,</l>
+                     <l>You great Profeſſors, that long time have been</l>
+                     <l>Talking of Righteouſneſs, but found in Sin.</l>
+                  </lg>
+                  <lg>
+                     <l>And you who to God's <hi>Light</hi> and <hi>Truth</hi> confeſs,</l>
+                     <l>Have felt its Virtue, yet do not poſſes</l>
+                     <l>It in you: I a word of Exhortation</l>
+                     <l>Unto you give, make you the Application.</l>
+                     <l>Conſider, <hi>Firſt,</hi> why God diſcovers Sin.</l>
+                     <l>(The ſtrait Gate) and broad VVay the VVorld walks in,</l>
+                     <l>Vain Cuſtoms, Pride, Hypocriſie, Deceit.</l>
+                     <l>(Truth, Righteouſneſs and ſound VVords, theſe more meet</l>
+                     <l>Are your Profeſſion to accompany,</l>
+                     <l>Yea, perfect Fruits of true Chriſtianity)</l>
+                     <l>As thoſe, who in the Life of Chriſt do dwell,</l>
+                     <l>Experimentally to you can tell.</l>
+                     <l>Are not theſe things thus laid before your Eyes,</l>
+                     <l>That you the beſt may chuſe, the worſt deſpiſe?</l>
+                  </lg>
+                  <lg>
+                     <l>And now, a word to you that hate the <hi>Light,</hi>
+                     </l>
+                     <l>And to Gods gracious <hi>Spirit</hi> do deſpite,</l>
+                     <l>'Counting that an Unholy thing, and Low,</l>
+                     <l>A Natural Light, which doth to all men ſhow</l>
+                     <l>Their ſecret Sins; a Common Grace, whereby</l>
+                     <l>There's no Salvation: thus you villifie</l>
+                     <pb n="20" facs="tcp:192198:16"/>
+                     <l>Chriſts precious Blood, that on the Croſs was ſhed</l>
+                     <l>For your Redemption, who through ſins are dead,</l>
+                     <l>Counting Gods only <hi>Son,</hi> our Prince and <hi>King,</hi>
+                     </l>
+                     <l>The <hi>Lamb,</hi> Chriſt Jeſus, an Unholy thing;</l>
+                     <l>Deſpiſing Gods <hi>Free Grace</hi> and tender Love,</l>
+                     <l>That in your Hearts from time to time hath ſtrove,</l>
+                     <l>Calling that Natural Light and Common Grace,</l>
+                     <l>VVhich gives true Knowledge of God in the Face</l>
+                     <l>Of Jeſus Chriſt, Gods Covenant of <hi>Light</hi>
+                     </l>
+                     <l>Unto the <hi>Gentiles,</hi> and his Arm of Might,</l>
+                     <l>By <hi>which,</hi> Salvation he doth work for all,</l>
+                     <l>To th' ends o'th' Earth, that on his Name do call.</l>
+                  </lg>
+                  <lg>
+                     <l>But Lord! who hath this our Report receiv'd?</l>
+                     <l>And who hath in thy Chriſt, the <hi>Light</hi> believ'd?</l>
+                     <l>And to whom is thy powerful <hi>Arm</hi> made bare,</l>
+                     <l>And Out-ſtretched <hi>Hand,</hi> by which all Nations are</l>
+                     <l>Invited and allured by thy <hi>Love,</hi>
+                     </l>
+                     <l>To taſte o'th' Bread of Life, comes from above,</l>
+                     <l>And drink abundantly; for now Chriſt ſays,</l>
+                     <l>He that believes in <hi>Me,</hi> though dead, I'le raiſe:</l>
+                     <l>
+                        <hi>I am</hi> the Reſurrection, <hi>Life</hi> and <hi>Light,</hi>
+                     </l>
+                     <l>Believe in <hi>me</hi> to Day, before the Night</l>
+                     <l>Of Darkneſs nigh, o're ſpread your Land, wherein</l>
+                     <l>That <hi>Light</hi> once ſhin'd, which manifeſted Sin,</l>
+                     <l>And ſecretly reprov'd, when none was nigh,</l>
+                     <l>The Evil to diſcover or diſcry.</l>
+                     <l>This was Gods <hi>Love,</hi> and is his <hi>Grace</hi> to all,</l>
+                     <l>Which ne'er conſents to Evil, but doth call</l>
+                     <pb n="25" facs="tcp:192198:16"/>
+                     <l>From Sin to God, from Darkneſs to Light clear,</l>
+                     <l>Breaks down Partition Walls, and ſo draws near</l>
+                     <l>To God and Chriſt, by <hi>Love's</hi> ſtrong tying Band,</l>
+                     <l>Againſt the which, the Gates of Hell can't ſtand.</l>
+                     <l>
+                        <hi>Its</hi> Strength's ſo great, <hi>it</hi> Armies over-powers;</l>
+                     <l>
+                        <hi>Its</hi> Scent more ſweet than Garden ſpiced Bowers;</l>
+                     <l>
+                        <hi>Its</hi> Nature ſuch, makes ſtoney Hearts to bleed,</l>
+                     <l>Forgives <hi>its</hi> Foes, <hi>its</hi> Enemies doth feed;</l>
+                     <l>Seeks not Revenge, but puts up Injuries,</l>
+                     <l>Forgives and covers Faults, and ſo diſcryes</l>
+                     <l>
+                        <hi>Its</hi> heavenly pure divine immortal <hi>Birth,</hi>
+                     </l>
+                     <l>From that below, born and brought forth i'th' Earth,</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <lg>
+                     <l>ARiſe, <hi>O Lord,</hi> in this the mighty Day</l>
+                     <l>Of thy great Power, and richly do diſplay</l>
+                     <l>Thy glorious <hi>Light</hi> and <hi>Truth</hi> abroad this Land,</l>
+                     <l>That all, both Old and Young, may underſtand</l>
+                     <l>The Riches of thy matchleſs conquering <hi>Love,</hi>
+                     </l>
+                     <l>Thou God of Glory! who doſt dwell above,</l>
+                     <l>To whom, on well tun'd Inſtruments let's ſing</l>
+                     <l>Praiſes and Honour: Glory to our King,</l>
+                     <l>Who Rules in Power on Earth, and Reigns o're Hell,</l>
+                     <l>And in the higheſt glorious Heaven doth dwell.</l>
+                  </lg>
+                  <lg>
+                     <l>A Princely Tribe all <hi>Wiſdom's</hi> Children are,</l>
+                     <l>Deckt with a Crown Immortal which <hi>they</hi> wear.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <pb n="26" facs="tcp:192198:17"/>
+                  <lg>
+                     <l>A Precious <hi>Light</hi> in all Hearts doth ariſe,</l>
+                     <l>Take heed thereto, be ſure, all who be wiſe.</l>
+                  </lg>
+                  <lg>
+                     <l>BElieve in Chriſt the <hi>Light,</hi> who checks for Evil,</l>
+                     <l>God's mighty <hi>Power</hi> in all to ſlay the Devil.</l>
+                  </lg>
+                  <lg>
+                     <l>CAnſt thou, O man! complain for want of Power?</l>
+                     <l>When God's <hi>Love, Light</hi> and <hi>Free Grace,</hi> every hour</l>
+                  </lg>
+                  <lg>
+                     <l>DOth in thy Heart for Truth and Juſtice call,</l>
+                     <l>That thou mayſt be redeemed from the Fall.</l>
+                  </lg>
+                  <lg>
+                     <l>EXamin well thy Heart, and thou mayſt ſee</l>
+                     <l>
+                        <hi>God's Love, Light</hi> and <hi>Free Grace</hi> is great to thee.</l>
+                  </lg>
+                  <lg>
+                     <l>FOr oftentimes a <hi>Light,</hi> thou can't deny,</l>
+                     <l>Within thine Heart doth Wickedneſs diſcry.</l>
+                  </lg>
+                  <lg>
+                     <l>GReat is <hi>Its</hi> Power, for this I right-well know,</l>
+                     <l>Could <hi>Satan</hi> with Hell-Gates <hi>It</hi> overthrow,</l>
+                  </lg>
+                  <lg>
+                     <l>HE would by no means ſuffer <hi>That</hi> to be,</l>
+                     <l>Makes known his dark Deceit ſo perfectlie.</l>
+                  </lg>
+                  <lg>
+                     <l>INnto that <hi>Light</hi> then, let thy Mind return,</l>
+                     <l>Which as conſuming Fire all Droſs will burn.</l>
+                  </lg>
+                  <lg>
+                     <pb n="27" facs="tcp:192198:17"/>
+                     <l>KEep low in <hi>It,</hi> and <hi>It</hi> will purge thee ſo,</l>
+                     <l>Thou ſhalt appear more White than driven Snow.</l>
+                  </lg>
+                  <lg>
+                     <l>LIke one of <hi>Sion's</hi> Sons in Righteouſneſs,</l>
+                     <l>Whoſe Robes are <hi>Grace</hi> and <hi>Truth,</hi> a comly Dreſs.</l>
+                  </lg>
+                  <lg>
+                     <l>MInd, mind that <hi>Light,</hi> all who deſire to be</l>
+                     <l>Freed from the Bondage of Iniquitie.</l>
+                  </lg>
+                  <lg>
+                     <l>NO other <hi>Power</hi> but Chriſt, Gods Sons of <hi>Love,</hi>
+                     </l>
+                     <l>Can from the Bondage of Corruption move.</l>
+                  </lg>
+                  <lg>
+                     <l>O! That mens Eyes were open'd to behold</l>
+                     <l>Gods <hi>Light</hi> and <hi>Love,</hi> more worth than fineſt Gold.</l>
+                  </lg>
+                  <lg>
+                     <l>PRepare your Hearts, this Tydings to receive,</l>
+                     <l>Great Joy and Gladneſs to all thoſe believe.</l>
+                  </lg>
+                  <lg>
+                     <l>QUake, Quake, ye Stout, before this <hi>Light</hi> to ſtand,</l>
+                     <l>Which is the <hi>Thunders</hi> of Gods great Command.</l>
+                  </lg>
+                  <lg>
+                     <l>RAiſe up your Forts, and let your Trench be caſt,</l>
+                     <l>Call all your ſtrong, prepare to War, make haſte;</l>
+                  </lg>
+                  <lg>
+                     <l>SEt up your Standard, and your Enſign ſhow,</l>
+                     <l>Sound <hi>Babel</hi>'s Alarm, and her Trumpet blow.</l>
+                  </lg>
+                  <lg>
+                     <l>THis is the Day the Lord of Hoſt will be</l>
+                     <l>A King in <hi>Zion,</hi> and ſet <hi>Iſrael</hi> free.</l>
+                  </lg>
+                  <lg>
+                     <pb n="28" facs="tcp:192198:18"/>
+                     <l>UNto the Lord, ye Lambs of <hi>Light,</hi> ſing Praiſe,</l>
+                     <l>Now and forever, bleſs his Name always.</l>
+                  </lg>
+                  <lg>
+                     <l>WO to the ſtout and lofty Cedars tall,</l>
+                     <l>Who hate the <hi>Light,</hi> and ſlight Gods <hi>Mercies</hi> all.</l>
+                  </lg>
+                  <lg>
+                     <l>YOu ſtubborn hearted Ones, who ſtill perſiſt</l>
+                     <l>To ſmite the <hi>Harmleſs</hi> with a bloody Fiſt,</l>
+                  </lg>
+                  <lg>
+                     <l>ZEalouſly will the Lord in flames of Fire</l>
+                     <l>Render you Vengeance in his dreadful Ire.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <lg>
+                     <l>ADAM by <hi>Sin</hi> brought Death o're all Mankind,</l>
+                     <l>B ut <hi>Chriſt</hi> is come, to quicken <hi>Soul</hi> or <hi>Mind</hi>
+                     </l>
+                     <l>C AIN did his Righteous Brother <hi>Abel</hi> ſlay;</l>
+                     <l>D eſtruction comes on all, walk in his Way.</l>
+                     <l>E VE, ſhe the ſubtll <hi>Serpent s</hi> Voice obey'd,</l>
+                     <l>F <hi>orbidden Fruit</hi> did eat, ſo was betray'd.</l>
+                     <l>G OD curſt the <hi>Serpent,</hi> Duſt muſt be <hi>his</hi> Meat,</l>
+                     <l>H e on the ſame all dayes on's Life muſt eat.</l>
+                     <l>J OSEPH was by his Brethren ſold away,</l>
+                     <l>K indred unkind, their Brother thus betray:</l>
+                     <l>L ittle they dream'd, when it they did effect,</l>
+                     <l>M ight come the time, to <hi>Io.</hi> they muſt ſubject.</l>
+                     <l>N o other Project would theſe <hi>Men</hi> content,</l>
+                     <l>O nly poor <hi>Ioſeph</hi> from them muſt be ſent,</l>
+                     <l>P oſted away into dark <hi>Aegypt</hi>'s Land,</l>
+                     <l>Q uite from his Country, yet in this, God's Hand</l>
+                     <pb n="29" facs="tcp:192198:18"/>
+                     <l>R ight well is ſeen. Poor <hi>Joſeph he</hi> became</l>
+                     <l>S o great in <hi>Aegypt</hi> as to rule the ſame</l>
+                     <l>T his was his Portion, <hi>he</hi> the Lord did fear,</l>
+                     <l>U nto Temptation would not yield, nor hear:</l>
+                     <l>W hat did his Miſtris unto him propoſe,</l>
+                     <l>Y ou ſee deny'd the ſame, and would not cloſe,</l>
+                     <l>Z ealouſly bent 'gainſt <hi>Sin,</hi> did her oppoſe.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <lg>
+                     <head>To Out-ſide Profeſſors.</head>
+                     <l>YOu great <hi>Profeſſors,</hi> who poſſeſſors are</l>
+                     <l>Of earthly Riches, but of heavenly bare;</l>
+                     <l>Why do <hi>Ye</hi> thus for Husks and Shels contend,</l>
+                     <l>Figures and Shadows, which muſt have an end?</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <lg>
+                     <l>To <hi>Rich,</hi> to <hi>Poor,</hi> to <hi>Old,</hi> to <hi>Young,</hi> to all</l>
+                     <l>I ſound Alarm, and with loud Voice call,</l>
+                     <l>
+                        <hi>Awake, awake,</hi> rouſe up, ye Slugs ariſe,</l>
+                     <l>Shake off the <hi>Duſt,</hi> with <hi>Eye-ſalve</hi> 'noint your Eyes,</l>
+                     <l>That you this great and glorious <hi>Day</hi> ſo nigh</l>
+                     <l>Approaching, yea, now <hi>Dawned</hi> may eſpy,</l>
+                     <l>In which Gods Promiſes fulfilled are,</l>
+                     <l>Of which the holy Prophets did declare</l>
+                     <l>How that i'th' latter Dayes the Lord would be</l>
+                     <l>A God to <hi>Iacob,</hi> his Captivitie.</l>
+                     <l>Return, and eke <hi>Jeruſal'ms</hi> Walls rebuild</l>
+                     <l>(I'th' Cituation of a pleaſant Field)</l>
+                     <pb n="28" facs="tcp:192198:19"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="29" facs="tcp:192198:19"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="30" facs="tcp:192198:20"/>
+                     <l>And that Mount <hi>Zion's</hi> holy Hill ſhould be</l>
+                     <l>Above all Hills exalted in Glorie,</l>
+                     <l>To which the Nations round about ſhould flow,</l>
+                     <l>And many People ſay, Come let us go</l>
+                     <l>Unto the <hi>Mountain</hi> of the houſe o'th' Lord,</l>
+                     <l>That he may <hi>teach</hi> us, and with one accord</l>
+                     <l>We in <hi>his Wayes</hi> may walk. From <hi>Zion</hi> ſhall</l>
+                     <l>The Law proceed, and Gods <hi>Word</hi> unto all</l>
+                     <l>Within the New-<hi>Jeruſalem</hi> plain be heard,</l>
+                     <l>That he may Reverenc'd be, obey'd and fear'd,</l>
+                     <l>Who ſhall judge Nations: many <hi>he</hi> rebukes,</l>
+                     <l>And makes them beat <hi>Spears</hi> into <hi>Pruning-Hooks,</hi>
+                     </l>
+                     <l>And <hi>Swords</hi> to <hi>Plow-Shares;</hi> Nations ſhall not learn</l>
+                     <l>To <hi>War,</hi> nor lift up Hand to fight again.</l>
+                     <l>The time draws near, theſe things fulfilled muſt be,</l>
+                     <l>And happy are they that theſe things ſhall ſee.</l>
+                     <l>For Chriſt is come, mens <hi>Lives</hi> not to deſtroy,</l>
+                     <l>But them to <hi>Save;</hi> and this is cauſe of Joy:</l>
+                     <l>He is not come to <hi>Kill</hi> men, but give <hi>Life,</hi>
+                     </l>
+                     <l>And free from <hi>that</hi> which is the cauſe of Strife,</l>
+                     <l>That men may live in <hi>Vnity</hi> and <hi>Peace,</hi>
+                     </l>
+                     <l>And <hi>Amity;</hi> and <hi>Wars</hi> and <hi>Blood-ſhed</hi> ceaſe.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <lg>
+                     <l>A Time of Darkneſs o're this Land has bin,</l>
+                     <l>So thick, ſo dark, ſo groſs becauſe of <hi>Sin,</hi>
+                     </l>
+                     <l>That many People <hi>Truth</hi> will not receive,</l>
+                     <l>That God is <hi>Light,</hi> nor in his <hi>Son</hi> believe;</l>
+                     <l>Although the Scriptures amply do declare,</l>
+                     <l>That God and Chriſt the Name of <hi>Light</hi> do bare.</l>
+                     <pb n="31" facs="tcp:192198:20"/>
+                     <l>And firſt concerning God, who all things made</l>
+                     <l>By his eternal powerful <hi>Word, He ſaid,</hi>
+                     </l>
+                     <l>Let it be ſo, and ſo it came to paſs,</l>
+                     <l>That all in Heaven, and Earth created was.</l>
+                  </lg>
+                  <lg>
+                     <l>This God is <hi>Light,</hi> and in the <hi>Light</hi> doth dwell,</l>
+                     <l>As doth the holy Scriptures plainly tell:</l>
+                     <l>In many places you may plainly find,</l>
+                     <l>Who read the Scriptures with an humble Mind,</l>
+                     <l>And that his Son our Chriſt, who is the Lamb,</l>
+                     <l>Is call'd the <hi>Light,</hi> who from God's Boſom came</l>
+                     <l>To lead Man up to God out of the Fall,</l>
+                     <l>In which through Sin we are concluded all;</l>
+                     <l>And ſo through <hi>Sin,</hi> in <hi>Death</hi> and <hi>Darkneſs</hi> be,</l>
+                     <l>Till by the <hi>Light</hi> of Chriſt we are ſet free,</l>
+                     <l>Who came to lead, all thoſe that him obey,</l>
+                     <l>Out of the Night, into the perfect Day.</l>
+                  </lg>
+                  <lg>
+                     <l>O bleſſed Day! O glorious Day of <hi>Light,</hi>
+                     </l>
+                     <l>Which conquers Darkneſs, and expels the Night.</l>
+                     <l>Bleſt be time in which thy <hi>Day-Star</hi> bright,</l>
+                     <l>And Morning redneſs of <hi>Eternal</hi> Light,</l>
+                     <l>Our Hearts did viſit, and by ſplendant Rayes</l>
+                     <l>Reveal the Glory of theſe latter Dayes,</l>
+                     <l>In which the Lord of Hoſt, our God moſt-high,</l>
+                     <l>According to his Promiſe, doth draw nigh</l>
+                     <l>Unto his People, and their <hi>King</hi> will be,</l>
+                     <l>And by his powerful out-ſtretch'd <hi>Arm</hi> ſet free.</l>
+                     <pb n="32" facs="tcp:192198:21"/>
+                     <l>His Sons and Daughters, who long Captives were</l>
+                     <l>Under oppreſſing <hi>Pharoah,</hi> and did beare</l>
+                     <l>The heavy <hi>Yokes,</hi> oppreſſing <hi>Burdens,</hi> and</l>
+                     <l>Increaſing <hi>Talks</hi> of black dark <hi>Egypt's</hi> Land.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>Of Divine Love.</head>
+                  <lg>
+                     <l>WHat ſhall I ſay of <hi>Love,</hi> the chiefeſt Good?</l>
+                     <l>'Tis Bread of <hi>Life,</hi> the Soul's Coeleſtial Food;</l>
+                     <l>The bleſſed <hi>Manſion</hi> of Eternity,</l>
+                     <l>The Reſidence, and <hi>Dwelling</hi> of the high</l>
+                     <l>And lofty One, the <hi>New-Ieruſ'lem</hi> bright,</l>
+                     <l>Fill'd with that glorious Splendor and great Light,</l>
+                     <l>Which doth the ſeven-fold <hi>Light</hi> o'th' Sun tranſcend,</l>
+                     <l>Which <hi>Light</hi> tranſparent, never ſhall have end.</l>
+                  </lg>
+                  <lg>
+                     <l>O depth of <hi>Love,</hi> and boundleſs <hi>Ocean</hi> wide!</l>
+                     <l>Under the ſhadow of thy Wings us hide,</l>
+                     <l>And keep us, Lord, in perfect Reſt and Peace,</l>
+                     <l>Shower down thy Mercies, make all Diſcords ceaſe;</l>
+                     <l>Reveal thy <hi>Light,</hi> thy glorious <hi>Truth</hi> make known,</l>
+                     <l>And by thy conquering <hi>Love</hi> bind all in one,</l>
+                     <l>That in a Oneneſs all may ſing amain,</l>
+                     <l>
+                        <hi>Iehovah-</hi>King, on Earth, in us doth Reign.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <pb n="33" facs="tcp:192198:21"/>
+                  <head>An Exhortation to dwell in Love.</head>
+                  <lg>
+                     <l>DWell Friends in <hi>Love,</hi> and then no Strife will be;</l>
+                     <l>Nay, nor Contention, but a Unitie:</l>
+                     <l>For <hi>Love</hi> in all things doth for Oneneſs call,</l>
+                     <l>Thinking no Evil, but pure good to all;</l>
+                     <l>Yea, <hi>Love</hi> is God, and God is <hi>Love</hi> and <hi>Light,</hi>
+                     </l>
+                     <l>Fulneſs of Pleaſure, Joy and great Delight;</l>
+                     <l>Dwell ye therein, and ye ſhall witneſs, Friends,</l>
+                     <l>Such ſweet Enjoyments can't be writ by Pens:</l>
+                     <l>For ſince the Lord in mercy hath made known</l>
+                     <l>This Diſpenſation of his <hi>Love,</hi> and ſhown</l>
+                     <l>To me its Vertue, and choice Nature pure,</l>
+                     <l>To ye with boldneſs, this I dare aſſure,</l>
+                     <l>That <hi>Love's</hi> the higheſt Diſpenſation, yea,</l>
+                     <l>That ever hath, or will diſpenſed be.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>Chriſt the true Light. Chriſt the Son of God's Love.</head>
+                  <lg>
+                     <l>DWell in the <hi>Light,</hi> and there true <hi>Love</hi> will be;</l>
+                     <l>Dwell in true <hi>Love,</hi> and great <hi>Light</hi> ye ſhall ſee;</l>
+                     <l>For in the <hi>Light,</hi> there true <hi>Love</hi> doth abound,</l>
+                     <l>And in the <hi>Love,</hi> there true <hi>Light</hi> may be found:</l>
+                     <l>For <hi>Light</hi> and <hi>Love,</hi> though they ſeem <hi>two</hi> by Name,</l>
+                     <l>Yet <hi>one,</hi> in Subſtance, and in <hi>truth</hi> the ſame.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <pb n="34" facs="tcp:192198:22"/>
+                  <lg>
+                     <l>DEar Friend <hi>J. C.</hi> with true unfeigned Love</l>
+                     <l>I thee ſalute, which in my Heart doth move</l>
+                     <l>Towards thee, and all our tender Friends moſt dear,</l>
+                     <l>Whoſe Minds are ſtaid on God, in his pure fear.</l>
+                     <l>Feel me, dear Friend, a Member joyntly knit</l>
+                     <l>To all, in Chriſt, in heavenly Places ſit;</l>
+                     <l>And here to Friends no Stranger would I be,</l>
+                     <l>Though they my Face, as outward, ne're did ſee.</l>
+                     <l>For truly Friend, I dearly love and own</l>
+                     <l>All travelling Souls, who truly ſigh and groan</l>
+                     <l>For the Adoption, which ſets free from Sin.</l>
+                     <l>And works Redemption, from that ſtate wherein</l>
+                     <l>The Prince o'th' Power of Darkneſs long did reign:</l>
+                     <l>But bleſt be God the time's at hand, a Chain</l>
+                     <l>In utter Darkneſs muſt his Portion be,</l>
+                     <l>There to be bound, and never more ſet free.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <lg>
+                     <l>O! all the <hi>Riches</hi> that are here below,</l>
+                     <l>
+                        <hi>Pomp, State</hi> and <hi>Glory,</hi> man eſteemeth ſo:</l>
+                     <l>What is <hi>It</hi> all? if I <hi>It</hi> once compare</l>
+                     <l>Unto a Child, that doth <hi>Gods Image</hi> bare,</l>
+                     <l>But <hi>Droſs</hi> and <hi>Dung,</hi> yea, filthy <hi>Dirt</hi> and <hi>Mire,</hi>
+                     </l>
+                     <l>To pureſt <hi>Gold</hi> refined in the Fire.</l>
+                     <l>How can I then but dearly love and own</l>
+                     <l>Thoſe precious <hi>Members,</hi> which are <hi>Bone</hi> of <hi>Bone,</hi>
+                     </l>
+                     <l>And prize <hi>their</hi> preſence, and enjoyment more</l>
+                     <l>Than <hi>Butts</hi> of <hi>Wine,</hi> and <hi>Oyl,</hi> and Barns of Store.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <pb n="35" facs="tcp:192198:22"/>
+                  <lg>
+                     <l>THe man that lives in <hi>Sin,</hi> walks in the <hi>Night,</hi>
+                     </l>
+                     <l>And ſpends his dayes in <hi>Darkneſs,</hi> not in <hi>Light.</hi>
+                     </l>
+                     <l>A righteous man his Works to <hi>Life</hi> do tend,</l>
+                     <l>But wicked men their <hi>Minds</hi> to Strife do bend.</l>
+                     <l>Avoid the <hi>Ways</hi> of Satan, they're not right,</l>
+                     <l>But traoe the <hi>Steps</hi> o'th' Juſt, which <hi>Shine</hi> as Light.</l>
+                     <l>Comfort the <hi>Comfortleſs</hi> in time of need;</l>
+                     <l>Diſtribute to the <hi>Poor,</hi> and Hungry feed.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>A Complaint againſt New-England Profeſſors.</head>
+                  <lg>
+                     <l>O Sad! <hi>New-England,</hi> I have heard ſtrange News</l>
+                     <l>concerning <hi>Thee;</hi> Why didſt <hi>Thou</hi> thus abuſe</l>
+                     <l>Gods Children dear, Male and Female? Surely</l>
+                     <l>Their Blood <hi>Thou Slew,</hi> and <hi>Hang'd,</hi> aloud doth cry</l>
+                     <l>Unto the Lord, who will avenge the ſame</l>
+                     <l>Upon <hi>Thy Head, (A Record</hi> to thy ſhame)</l>
+                     <l>A ſhameful thing indeed! what ſhall I ſay?</l>
+                     <l>
+                        <hi>You</hi> are the ſtock of <hi>Cain;</hi> this was <hi>his</hi> way.</l>
+                     <l>
+                        <hi>Your</hi> cruel Works, <hi>Your</hi> hardned Hearts make known</l>
+                     <l>
+                        <hi>Your Babel</hi> great, muſt to the Earth be thrown;</l>
+                     <l>
+                        <hi>Your</hi> boaſtings high, like <hi>Caparnaum</hi> tall<g ref="char:punc">▪</g>
+                     </l>
+                     <l>Muſt all come down; your <hi>Pride</hi> ſhall have a fall.</l>
+                     <l>
+                        <hi>You</hi> that ſo cruel and mercileſs were;</l>
+                     <l>The <hi>Vengeance</hi> of Almighty God muſt bear.</l>
+                  </lg>
+                  <pb n="34" facs="tcp:192198:23"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="35" facs="tcp:192198:23"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+               </div>
+               <div type="section">
+                  <pb n="36" facs="tcp:192198:24"/>
+                  <head>Concerning Perſecution.</head>
+                  <lg>
+                     <l>SInce <hi>Abel's</hi> time unto this preſent day</l>
+                     <l>There is an <hi>Evil</hi> that hath born great ſway,</l>
+                     <l>An <hi>Evil Great, A Horrid</hi> and <hi>Black Sin,</hi>
+                     </l>
+                     <l>Call'd <hi>Perſecution:</hi> All that walk therein,</l>
+                     <l>What e're they ſay, profeſs or do pretend,</l>
+                     <l>By <hi>Perſecution</hi> People to amend;</l>
+                     <l>Yet none of them could ever make appear</l>
+                     <l>
+                        <hi>Co-ercive Means</hi> was a good Courſe to ſtere;</l>
+                     <l>
+                        <hi>It</hi> ne're did <hi>Mend,</hi> but rather always <hi>Mar;</hi>
+                     </l>
+                     <l>Who e're harpt on that ftring ſtill made a <hi>Iar;</hi>
+                     </l>
+                     <l>IT is a hateful, foul, deſtructive thing:</l>
+                     <l>To <hi>King</hi> nor <hi>People,</hi> It ne're good can bring:</l>
+                     <l>The <hi>Work</hi> and <hi>Fruit</hi> thereof, as many write,</l>
+                     <l>Nought elſe produceth, but a <hi>Hypocrite.</hi>
+                     </l>
+                     <l>I think it ſtrange, why ſome ſhould pleaſure take,</l>
+                     <l>And <hi>Toil</hi> themſelves, but <hi>Hypocrites</hi> to make.</l>
+                     <l>It is work that <hi>Marks</hi> all in it are,</l>
+                     <l>With <hi>Mark</hi> and <hi>Badge</hi> of Satan, which they weare,</l>
+                     <l>The <hi>Mark</hi> o'th' Fleſh, and <hi>Birth</hi> that's from below,</l>
+                     <l>A <hi>Badge</hi> with which all <hi>Perſecutors</hi> go.</l>
+                     <l>For as it was, ſo ſtill it is, I ſay,</l>
+                     <l>The <hi>Fleſhly</hi> Birth the <hi>Spirits</hi> Birth would ſlay.</l>
+                     <l>Nothing more certain is, the <hi>Mark</hi> and <hi>Seat</hi>
+                     </l>
+                     <l>O'th' wicked <hi>Whore,</hi> than <hi>Perſecution</hi> great:</l>
+                     <l>Nothing the <hi>mark</hi> of the <hi>falſe Church</hi> more plain,</l>
+                     <l>Than Reformation <hi>per force</hi> to maintain.</l>
+                     <pb n="37" facs="tcp:192198:24"/>
+                     <l>Nothing more plain is writ in <hi>Letters Red</hi>
+                     </l>
+                     <l>Than <hi>Antichriſt,</hi> where they mens Blood do ſhed</l>
+                     <l>About Religion, and Religions things;</l>
+                     <l>This is a truth; Conviction with it brings,</l>
+                     <l>To all that ſober, ſerious, moderate are,</l>
+                     <l>It is an Argument great weight will beare;</l>
+                     <l>For Chriſt commanded, that the <hi>Wheat</hi> and <hi>Care</hi>
+                     </l>
+                     <l>Should grow together till the Harveſt were.</l>
+                     <l>The <hi>Tares</hi> to be pluckt up he gave no leave,</l>
+                     <l>Leſt that thereby the <hi>Wheat</hi> ſhould hurt receive.</l>
+                     <l>He alſo told to his Diſciples all,</l>
+                     <l>When that from Heaven they would Fire call,</l>
+                     <l>They did not know nor underſtand aright</l>
+                     <l>What ſpirit they were of; for his delight</l>
+                     <l>Was, Mens Lives for to <hi>ſave,</hi> and not to <hi>kill;</hi>
+                     </l>
+                     <l>For this end did he come, to do Gods will.</l>
+                     <l>He alſo ſaid, when that you <hi>Curſed</hi> are,</l>
+                     <l>Then you ſhould <hi>Bleſs;</hi> when <hi>Perſecuted,</hi> bear</l>
+                     <l>It patiently, and <hi>Pray</hi> for Enemies,</l>
+                     <l>
+                        <hi>Do Good</hi> to thoſe that hate you; none deſpiſe,</l>
+                     <l>Becauſe they are not now juſt as you are:</l>
+                     <l>The time may come, they may Gods Image bear,</l>
+                     <l>Though now <hi>Adverſe, Idolatrous</hi> and <hi>Vain,</hi>
+                     </l>
+                     <l>The time may come, they Mercy may obtain.</l>
+                     <l>If now their Way be <hi>Falſe, Erroneous,</hi> and</l>
+                     <l>Not <hi>Right,</hi> in time, they <hi>Truth</hi> may underſtand.</l>
+                     <l>The <hi>beſt way</hi> then, is <hi>ſtill</hi> to let them live,</l>
+                     <l>And let your Light ſo <hi>ſhine,</hi> as it may give</l>
+                     <l>A better Underſtanding, that they may</l>
+                     <l>Receive the <hi>Truth,</hi> and walk in the <hi>Right Way:</hi>
+                     </l>
+                     <pb n="38" facs="tcp:192198:25"/>
+                     <l>After this <hi>manner</hi> Chriſt his Scholars taught;</l>
+                     <l>And thoſe 'teach <hi>otherwiſe,</hi> their Doctrine's naught,</l>
+                     <l>They ne'er did learn it of the Light, the Lamb.</l>
+                     <l>For <hi>Perſecution</hi> from the Devil came;</l>
+                     <l>'Tis he that ſets men to this <hi>Work,</hi> and they</l>
+                     <l>Shall of him have their <hi>Wages</hi> and their <hi>Pay.</hi>
+                     </l>
+                     <l>Therefore let none, that this <hi>bad Work</hi> attend</l>
+                     <l>Expect <hi>Good Wages</hi> in their latter end.</l>
+                     <l>Their Work is <hi>bad,</hi> and their Reward will be</l>
+                     <l>
+                        <hi>Gnaſhing</hi> of Teeth to all Eternitie.</l>
+                     <l>Thus much concerning <hi>Perſecution</hi> here,</l>
+                     <l>A thing from which all <hi>Chriſtians</hi> ſhould keep clear.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <lg>
+                     <l>LOrd God Eternal! by thy mighty Power</l>
+                     <l>Preſerve, I pray thee, in the approaching hour,</l>
+                     <l>
+                        <hi>Thy</hi> Lambs, thy Babes, thy little Ones, yea, all</l>
+                     <l>Who in <hi>Thee</hi> truſt, and on thy <hi>Name</hi> do call.</l>
+                     <l>Support them (Lord) by thine <hi>Out-ſtretched Hand,</hi>
+                     </l>
+                     <l>And give them boldneſs <hi>valinntly</hi> to ſtand</l>
+                     <l>
+                        <hi>True</hi> Witneſſes for thee, thy <hi>Truth</hi> and <hi>Light,</hi>
+                     </l>
+                     <l>And bear their Teſtimony (in deſpite</l>
+                     <l>Of Wicked Men, who wilfully oppoſe</l>
+                     <l>That ſaving <hi>Light,</hi> their deeds of Darkneſs ſhows)</l>
+                     <l>'Gainſt their falſe Worſhips and Idolatry,</l>
+                     <l>Which holds the Seed in ſore Captivity,</l>
+                     <l>That ſo the Righteous Seed o're all may riſe</l>
+                     <l>To praiſe thy <hi>holy Name,</hi> thou only Wiſe,</l>
+                     <l>To whom be Glory, Honour and Renown,</l>
+                     <l>Who only worthy art to wear the Crown.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <pb n="39" facs="tcp:192198:25"/>
+                  <head>Concerning the Philoſophers Stone.</head>
+                  <lg>
+                     <l>BLeſt is that man can want and can abound,</l>
+                     <l>And reſt Content in all ſtates, he hath found</l>
+                     <l>That precious Pearl, much hidden and unknown,</l>
+                     <l>Which may be term'd the <hi>Philoſophers Stone;</hi>
+                     </l>
+                     <l>For it turns all to Good, the chiefeſt Gold.</l>
+                     <l>What-e'er it haps on, either Heat or Cold,</l>
+                     <l>Sun-ſhine or Rain, Riches or Poverty,</l>
+                     <l>Stripes or Reproaches, all things well comply;</l>
+                     <l>And with this <hi>Stone</hi> ſo joyntly mix and change,</l>
+                     <l>Its courſe moſt ſwift, throughout <hi>y<hi rend="sup">e</hi>
+                        </hi> World doth range,</l>
+                     <l>And by its ſublime Vertue ſtill convert</l>
+                     <l>All things to Riches and great Joy of Heart.</l>
+                     <l>Preſs forwards, <hi>Chymiſts,</hi> and this <hi>Stone</hi> attain;</l>
+                     <l>For 'tis the <hi>Sumnum Bonum,</hi> and the main</l>
+                     <l>Point of Religion and Divinity.</l>
+                     <l>Thus in Gods hand in true Content to lie,</l>
+                     <l>And at the ordering of his mighty Power,</l>
+                     <l>With true ſubmiſſiveneſs, even every hour,</l>
+                     <l>In ſtill and quiet Reſignation ſtand</l>
+                     <l>To his diſpoſing Providential hand.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <pb n="40" facs="tcp:192198:26"/>
+                  <head>Concerning Covetouſneſs.</head>
+                  <lg>
+                     <l>THere is a <hi>Sin</hi> too much liv'd in,</l>
+                     <l>It many <hi>Cloakes</hi> doth wear.</l>
+                     <l>Theſe <hi>Cloakes</hi> much <hi>us'd</hi> and much <hi>abus'd,</hi>
+                     </l>
+                     <l>Are almoſt grown <hi>Threed bare.</hi>
+                     </l>
+                     <l>The <hi>Rich Men</hi> yet theſe <hi>Cloakes</hi> will get,</l>
+                     <l>And wear <hi>them</hi> frequently,</l>
+                     <l>As if ſo be no one could ſee</l>
+                     <l>What under <hi>them</hi> doth lie.</l>
+                     <l>Alas! Alas! theſe <hi>Cloakes</hi> may paſs</l>
+                     <l>
+                        <hi>Avarice</hi> to cover,</l>
+                     <l>Yet all won't do, to tell them true,</l>
+                     <l>Though <hi>wrapt</hi> over and over.</l>
+                     <l>This <hi>Sin</hi> which hath ſo many <hi>Cloakes,</hi>
+                     </l>
+                     <l>Is named <hi>Covetouſneſs;</hi>
+                     </l>
+                     <l>Here ye may ſee <hi>Idolatry</hi>
+                     </l>
+                     <l>In <hi>ſome</hi> great things profeſs,</l>
+                     <l>Although this <hi>ſin</hi> ſo much liv'd in</l>
+                     <l>Be meer <hi>Idolatry;</hi>
+                     </l>
+                     <l>Say what one will, they'l live in't ſtill,</l>
+                     <l>'Tis <hi>Truth,</hi> none can deny.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <pb n="41" facs="tcp:192198:26"/>
+                  <head>Concerning Pride, Avarice and Luxury.</head>
+                  <lg>
+                     <l>
+                        <hi>PRide, Avarice</hi> and <hi>Luxury,</hi> theſe three</l>
+                     <l>Are <hi>Evils</hi> great, avoided for to be,</l>
+                     <l>By all who Chriſt profeſs, and bare his Name;</l>
+                     <l>His Life and Doctrine did condemn the ſame:</l>
+                     <l>
+                        <hi>Pride</hi> was the Evil, which did firſt prevail</l>
+                     <l>
+                        <hi>Miſ'ry</hi> (on all, through <hi>Adam)</hi> to entail.</l>
+                     <l>
+                        <hi>Pride</hi> and <hi>Self-love</hi> deſires to grow ſo great,</l>
+                     <l>Perſues, and craves to <hi>know</hi> what is not meet;</l>
+                     <l>And when obtain'd, it works a ſtrange exchange,</l>
+                     <l>Drives out from <hi>Paradiſe,</hi> on Earth to range.</l>
+                  </lg>
+                  <lg>
+                     <l>So <hi>Pride</hi> before Deſtruction goes, and all</l>
+                     <l>That are of <hi>Haughty minds</hi> muſt have a fall.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Proud man</hi> God did reſiſt, and doth ſo ſtill,</l>
+                     <l>But doth the <hi>Humble</hi> teach to do his <hi>Will.</hi>
+                     </l>
+                     <l>His <hi>Will</hi> then done, Man does enjoy Gods Peace,</l>
+                     <l>Reſts in his <hi>Sabbath,</hi> and from Sin doth ceaſe.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Avarice</hi> is an <hi>Evil</hi> great indeed,</l>
+                     <l>Becauſe from it all Evils do proceed.</l>
+                     <l>A Root of Miſchief, 'tis <hi>Idolatry,</hi>
+                     </l>
+                     <l>A Sin from which we all ſhould ſwiftly fly.</l>
+                     <l>But having touch'd on this great Sin before,</l>
+                     <l>The leſs need ſay, and ſo now paſs it o're.</l>
+                  </lg>
+                  <lg>
+                     <pb n="42" facs="tcp:192198:27"/>
+                     <l>
+                        <hi>Luxury</hi> next is that of which I write,</l>
+                     <l>An <hi>Evil</hi> great to indulge th' Appetite.</l>
+                     <l>'Tis an <hi>Exceſs</hi> of Pleafure and <hi>Self-eaſe,</hi>
+                     </l>
+                     <l>With Chriſtian <hi>moderation</hi> ne're agrees.</l>
+                     <l>To ſay, What ſhall we eat, or drink, or weare,</l>
+                     <l>It was the <hi>Gentiles</hi> for thoſe things took care.</l>
+                     <l>But Chriſt to his Diſciples thus did ſay,</l>
+                     <l>Take ye not thought; he ſhew'd <hi>another</hi> way.</l>
+                     <l>
+                        <hi>Firſt</hi> ſeek Gods Kingdom, and his Righteouſneſs,</l>
+                     <l>All <hi>other</hi> things the Lord will add and bleſs,</l>
+                     <l>By which thoſe that <hi>Luxuriouſly</hi> did feed,</l>
+                     <l>And drink <hi>exceſſive,</hi> are reprov'd indeed.</l>
+                     <l>Indeed the ſame ſevere <hi>Reproof</hi> doth merit;</l>
+                     <l>For thoſe it uſe, ſtrange Miſchiefs ſhall inherit,</l>
+                     <l>Not only to their <hi>Bodies</hi> and <hi>Eſtates,</hi>
+                     </l>
+                     <l>But on their <hi>Souls</hi> brings burdens and great weights,</l>
+                     <l>Impareth <hi>Health,</hi> it ſhortens <hi>Life,</hi> and ſtill</l>
+                     <l>Unfits the <hi>mind</hi> to do Gods holy Will.</l>
+                     <l>And thoſe in <hi>Luxury</hi> and <hi>Self-eaſe</hi> dwell,</l>
+                     <l>Forget God, ſo muſt be turn'd into <hi>Hell.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>There's One thing more, to you I now may name,</l>
+                     <l>
+                        <hi>Apparels,</hi> firſt ordained to hide mans ſhame.</l>
+                     <l>And why of <hi>theſe</hi> ſhould man be proud, I pray?</l>
+                     <l>And for what reaſon ſhould they be ſo gay?</l>
+                     <l>Since the firſt <hi>Coat,</hi> which <hi>Adam</hi> wore, was ſpun</l>
+                     <l>By <hi>Sin,</hi> a Threed and Work hath all undone.</l>
+                     <l>Why then ſhould Man uſe ſo much <hi>Coſt</hi> and <hi>Care,</hi>
+                     </l>
+                     <l>His <hi>Lapſe</hi> to ſhow, thus trim the <hi>Badge</hi> to wear,</l>
+                     <pb n="43" facs="tcp:192198:27"/>
+                     <l>As if to all he meets, he would impart</l>
+                     <l>His <hi>Innocency loſt,</hi> and <hi>Pride</hi> of's Heart.</l>
+                  </lg>
+                  <lg>
+                     <l>Well, this I ſay, <hi>Pride, Avarice</hi> and all</l>
+                     <l>
+                        <hi>Luxurious</hi> ways, ſprung up through <hi>Adam's</hi> Fall;</l>
+                     <l>And as Man comes to be <hi>Reſtor'd</hi> again</l>
+                     <l>By Chriſt, theſe <hi>Sins</hi> are mortifi'd and ſlain.</l>
+                     <l>But thoſe live in ſuch <hi>Evils</hi> and <hi>Exceſs,</hi>
+                     </l>
+                     <l>Be no good <hi>Chriſtians,</hi> what e're they profeſs.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <lg>
+                     <l>TEMPERANCE is a Vertue choice and rare,</l>
+                     <l>(This <hi>Age)</hi> theſe Trees are ſcarce, ſuch <hi>Fruit</hi> doth bear.</l>
+                     <l>This is an <hi>Age, Intemperance</hi> and <hi>Sin</hi>
+                     </l>
+                     <l>Too much in <hi>Faſhion is,</hi> too much <hi>liv'd</hi> in;</l>
+                     <l>An <hi>Age</hi> ſo ſtrange, in which ſome ſtrangely deem,</l>
+                     <l>None can be <hi>Loyal, Temperance</hi> eſteem.</l>
+                     <l>
+                        <hi>Temperance</hi> ſeems as baniſh'd from our Land,</l>
+                     <l>While <hi>Healths</hi> and <hi>Huzza's</hi> in repute do ſtand.</l>
+                     <l>
+                        <hi>Temperance</hi> yet good Men will highly prize,</l>
+                     <l>
+                        <hi>It</hi> always was much valu'd by the Wiſe,</l>
+                     <l>Becauſe it leads in Ways, preſerveth Health,</l>
+                     <l>Ought more to be prefer'd than earthly Pelf:</l>
+                     <l>The <hi>Contrary,</hi> great Ill Convenience brings;</l>
+                     <l>Moſt of Diſeaſes from <hi>Intemperance</hi> ſprings.</l>
+                     <l>
+                        <hi>Extreams.</hi> Exceſs in Meat and Drink, anoy,</l>
+                     <l>They hurt the Mind, and Body do deſtroy.</l>
+                     <l>Therefore the beſt Advice that I can give,</l>
+                     <l>Is <hi>Abſtinence,</hi> not too much to receive.</l>
+                     <l>More are deſtroy'd by <hi>Superfluity,</hi>
+                     </l>
+                     <l>And dye, than thoſe through <hi>Want</hi> and <hi>Penury.</hi>
+                     </l>
+                     <pb n="44" facs="tcp:192198:28"/>
+                     <l>Beſides, the <hi>Sin</hi> is great, men can't enjoy</l>
+                     <l>Gods Mercies and his Bleſſings, but deſtroy</l>
+                     <l>And ſpend the Creatures on their ſinful Luſt,</l>
+                     <l>Offending God, provoking of the Juſt,</l>
+                     <l>To bring their Heads down low unto the Duſt.</l>
+                  </lg>
+                  <lg>
+                     <l>IF <hi>Health</hi> and <hi>Happineſs</hi> thou wilt obtain,</l>
+                     <l>From <hi>Coſtly Food, Rich Dainties</hi> then refrain.</l>
+                     <l>If <hi>Health</hi> and <hi>Happineſs</hi> thou highly priſe,</l>
+                     <l>Not many <hi>Diſhes</hi> uſe, <hi>Two</hi> may ſuffiſe;</l>
+                     <l>For many ſorts of Food not well agrees,</l>
+                     <l>Hinders <hi>Digeſtion</hi> and breeds <hi>Crudities.</hi>
+                     </l>
+                     <l>The firſt <hi>Concoction</hi> then, if not made well.</l>
+                     <l>The <hi>next</hi> can't mend it, as Phyſitians tell.</l>
+                     <l>The meaner Food and ſimple Diet plain,</l>
+                     <l>The Bodies <hi>health</hi> moſt bravely doth maintain.</l>
+                     <l>An Healthful Body and a Quiet Mind</l>
+                     <l>Amongſt the Epicures, who can them find!</l>
+                     <l>What Health, or Strength, or Peace, or Quietneſs</l>
+                     <l>Can thoſe enjoy, live daily in Exceſs?</l>
+                  </lg>
+                  <lg>
+                     <l>If <hi>happineſs</hi> in Health a man may find,</l>
+                     <l>Surely <hi>much happineſs</hi> in clean Mind.</l>
+                  </lg>
+                  <lg>
+                     <l>A Man whoſe Mind is Holy, Humble, Pure,</l>
+                     <l>A <hi>Treaſure</hi> hath that alwayes will endure.</l>
+                  </lg>
+                  <lg>
+                     <l>God gives his Creatures unto Man to uſe,</l>
+                     <l>But Gods good Creatures many do abuſe.</l>
+                     <l>And on their ſinful Luſts do ſpend the ſame,</l>
+                     <l>Him they diſhonour and blaſpheme his Name.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <pb n="45" facs="tcp:192198:28"/>
+                  <head>Concerning the Croſs of Chriſt.</head>
+                  <lg>
+                     <l>THe <hi>Croſs of Chriſt,</hi> the <hi>Power of God,</hi>
+                     </l>
+                     <l>The <hi>Enmity</hi> doth ſlay,</l>
+                     <l>And bring the Soul from Death to Life,</l>
+                     <l>From <hi>Darkneſs</hi> to <hi>Lights Day.</hi>
+                     </l>
+                     <l>The <hi>Croſs</hi> of Chriſt, the <hi>Power</hi> of God,</l>
+                     <l>O're <hi>Hell Gates</hi> doth prevail;</l>
+                     <l>Whoever in the <hi>ſame</hi> doth truſt,</l>
+                     <l>To help, it ne're doth fail.</l>
+                     <l>The <hi>Croſs</hi> of Chriſt, the <hi>Power</hi> of God,</l>
+                     <l>To <hi>Iews</hi> a Stumbling-Block,</l>
+                     <l>Unto <hi>Believers</hi> precious is</l>
+                     <l>Elect, their only <hi>Rock.</hi>
+                     </l>
+                     <l>The <hi>Croſs</hi> of Chriſt, the <hi>Power</hi> of God,</l>
+                     <l>To <hi>Greecians</hi> Fooliſhneſs:</l>
+                     <l>They after <hi>earthly Wiſdom</hi> ſeek,</l>
+                     <l>But <hi>Folly</hi> do poſſes.</l>
+                     <l>He that doth not take up Chriſts <hi>Croſs,</hi>
+                     </l>
+                     <l>And bear <hi>it</hi> willingly,</l>
+                     <l>Cannot be Chriſts Diſciple, till</l>
+                     <l>
+                        <hi>Hunſelf</hi> he doth deny.</l>
+                     <l>The <hi>Croſs</hi> of Chriſt preſerves from Sin,</l>
+                     <l>And all who with it dwell</l>
+                     <l>Are ranſomed from Death and the Grave,</l>
+                     <l>And all the <hi>Powers</hi> of Hell.</l>
+                     <l>True Chriſtians <hi>love</hi> the <hi>Croſs</hi> of Chriſt,</l>
+                     <l>And highly prize the <hi>ſame;</hi>
+                     </l>
+                     <l>They greatly do rejoyce <hi>therein</hi>
+                     </l>
+                     <l>To ſuffer for Chriſts <hi>Name.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <pb n="46" facs="tcp:192198:29"/>
+                  <head>Concerning the Soul's Travait after the Knowledge of the Right Way.</head>
+                  <lg>
+                     <l>THere was a time in days by paſt,</l>
+                     <l>When in my tender Years</l>
+                     <l>I greatly cry'd unto the Lord,</l>
+                     <l>To free me from my Fears.</l>
+                     <l>My Fears, and Doubts, and Queſtionings,</l>
+                     <l>Which greatly did attend,</l>
+                     <l>Leſt that I ſhould miſs of <hi>that Way</hi>
+                     </l>
+                     <l>Leads to an happy End.</l>
+                     <l>That <hi>Way</hi> in which the Lord alone,</l>
+                     <l>To ſerve, I might be ſure,</l>
+                     <l>That <hi>Way</hi> in which he's worſhipped,</l>
+                     <l>By ſuch whoſe hearts are pure,</l>
+                     <l>Who do the <hi>Face</hi> of God behold,</l>
+                     <l>And ſee his Glory great;</l>
+                     <l>This was the thing I more long'd for,</l>
+                     <l>Then for my natural Meat.</l>
+                     <l>Then as I cry'd, and ſought the Lord</l>
+                     <l>The <hi>Right Way</hi> for to know,</l>
+                     <l>The Lord was pleas'd in his due time</l>
+                     <l>The ſame to me to ſhow.</l>
+                     <l>But whilſt among the <hi>Watch-men</hi> of</l>
+                     <l>The <hi>Night</hi> I did enquire</l>
+                     <l>The <hi>Way,</hi> and my <hi>Beloved</hi> ſeek,</l>
+                     <l>Whom my Soul did deſire,</l>
+                     <pb n="47" facs="tcp:192198:29"/>
+                     <l>I could not find the Way, nor yet</l>
+                     <l>See my Belovod dear,</l>
+                     <l>Till paſt <hi>blind Guides</hi> and <hi>Watch-men</hi> of</l>
+                     <l>The <hi>Night</hi> I was got clear.</l>
+                     <l>One cry'd <hi>lo here,</hi> and one <hi>lo there;</hi>
+                     </l>
+                     <l>One <hi>that's</hi> the <hi>Way,</hi> one <hi>this;</hi>
+                     </l>
+                     <l>So I ſtill here was in great fear,</l>
+                     <l>Leſt <hi>Right Way</hi> I ſhould miſs.</l>
+                     <l>For all their Sounds <hi>Vncertain</hi> were,</l>
+                     <l>Their Trumpets did not blow,</l>
+                     <l>So as to give a <hi>certain</hi> Sound,</l>
+                     <l>And Right <hi>Way</hi> for to ſhow.</l>
+                     <l>For all their Sounds, and Cryes and Calls</l>
+                     <l>Were unto things <hi>without,</hi>
+                     </l>
+                     <l>Wherein no Certainty was found</l>
+                     <l>For to reſolve my <hi>doubt:</hi>
+                     </l>
+                     <l>Then I remembr'd Chriſt foretold,</l>
+                     <l>When ſome <hi>lo here</hi> ſhall ſay,</l>
+                     <l>And ſome <hi>lo there,</hi> then go not forth</l>
+                     <l>After them in their <hi>Way.</hi>
+                     </l>
+                     <l>For Heavens Kingdom is <hi>within,</hi>
+                     </l>
+                     <l>And who the Way will find,</l>
+                     <l>Which unto Reſt and Peace doth lead,</l>
+                     <l>Turn <hi>Inward</hi> muſt his mind.</l>
+                     <l>For what is to be known of God</l>
+                     <l>
+                        <hi>Within</hi> is manifeſt;</l>
+                     <l>And till the Mind be <hi>Inward</hi> turn'd,</l>
+                     <l>None finds the way to Reſt.</l>
+                     <pb n="48" facs="tcp:192198:30"/>
+                     <l>For till unto the <hi>Light within,</hi>
+                     </l>
+                     <l>And gift of Gods Grace free,</l>
+                     <l>The Mind and Heart of man be turn'd</l>
+                     <l>The <hi>Right Way,</hi> he cannot ſee</l>
+                     <l>Therefore the great concern of all,</l>
+                     <l>Who after God doth ſeek,</l>
+                     <l>And long to know his Way and Truth,</l>
+                     <l>Is to be low and meek.</l>
+                     <l>For thoſe who <hi>Meek</hi> and <hi>Humble</hi> are,</l>
+                     <l>The Lord will teach his Ways,</l>
+                     <l>And raiſe them up by his great Power,</l>
+                     <l>For to ſhew forth his Praiſe,</l>
+                     <l>And as the Lord in mercy did</l>
+                     <l>To me his Truth reveal,</l>
+                     <l>So I will publiſh loud the ſame,</l>
+                     <l>And not the Truth conceal.</l>
+                     <l>Becauſe I know the living God</l>
+                     <l>Would <hi>all</hi> the <hi>Truth</hi> ſhould know,</l>
+                     <l>And none periſh for want thereof,</l>
+                     <l>Nor to Deſtruction go.</l>
+                     <l>For God that did all Nations make</l>
+                     <l>Of one Blood, for to dwell</l>
+                     <l>Upon the face of the whole Earth,</l>
+                     <l>Wills <hi>None</hi> ſhould go to Hell.</l>
+                     <l>He made not man to be <hi>deſtroy'd,</hi>
+                     </l>
+                     <l>But for a better end,</l>
+                     <l>Namely, to <hi>ſerve</hi> and <hi>worſhip</hi> him,</l>
+                     <l>And on him to depend.</l>
+                     <pb n="49" facs="tcp:192198:30"/>
+                     <l>The purpoſe of Almighty God,</l>
+                     <l>Was man might glorifie,</l>
+                     <l>And honour his Creator great,</l>
+                     <l>To all Eternity.</l>
+                     <l>And not live unto himſelf,</l>
+                     <l>Nor Satan ſerve in <hi>Sin,</hi>
+                     </l>
+                     <l>With <hi>Luſt</hi> o'th' <hi>fleſh</hi> or <hi>Luſt</hi> o'th' <hi>eye,</hi>
+                     </l>
+                     <l>Nor <hi>Pride</hi> of <hi>Life</hi> live in.</l>
+                     <l>For <hi>Such</hi> things they are not of God,</l>
+                     <l>But of the wicked World;</l>
+                     <l>And all that from them ben't Redeem'd</l>
+                     <l>Muſt into th' Pit be hurl'd.</l>
+                  </lg>
+                  <lg>
+                     <l>Now to the end that all Mankind</l>
+                     <l>Might anſwer Gods deſigne,</l>
+                     <l>He his good Spirit freely gives,</l>
+                     <l>And thoſe to it incline</l>
+                     <l>Their Ears, and hearken what it ſaith,</l>
+                     <l>And do the ſame obey,</l>
+                     <l>Be ſure therein they cannot Err,</l>
+                     <l>Nor miſs Gods <hi>Perfect Way.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>The <hi>Way</hi> of <hi>Light</hi> the <hi>Way</hi> wherein</l>
+                     <l>The <hi>juſt men</hi> all did go,</l>
+                     <l>The <hi>Way</hi> of <hi>Life,</hi> the <hi>Way</hi> of <hi>Truth,</hi>
+                     </l>
+                     <l>The <hi>right Way</hi> all do know,</l>
+                     <l>Who walk therein, it is the <hi>Way</hi>
+                     </l>
+                     <l>That leads to <hi>Peace</hi> and <hi>Reſt,</hi>
+                     </l>
+                     <l>The Juſt Mans Path, a ſhining <hi>Light,</hi>
+                     </l>
+                     <l>All walk therein are bleſt.</l>
+                     <pb n="50" facs="tcp:192198:31"/>
+                     <l>
+                        <hi>This</hi> is the Path <hi>Avel</hi> trod in,</l>
+                     <l>And <hi>Abraham</hi> alſo;</l>
+                     <l>Our Fathers <hi>Iſaat</hi> and <hi>Iacob</hi>
+                     </l>
+                     <l>In <hi>this</hi> ſame <hi>way</hi> did go.</l>
+                     <l>It is a <hi>way</hi> the Vulters Eye</l>
+                     <l>Can't ſee; no Ravenous Bea ſt</l>
+                     <l>Can tread or ſet a foot <hi>therein;</hi>
+                     </l>
+                     <l>Nay, nor no Hireling Prieſt.</l>
+                     <l>It is a <hi>way</hi> for Ranſom'd Ones</l>
+                     <l>From the Earth are Redeem'd;</l>
+                     <l>Thoſe walk therein are lov'd of God,</l>
+                     <l>Though by men diſ-eſteem'd.</l>
+                  </lg>
+                  <lg>
+                     <l>Bleſt be the time in which <hi>this way</hi>
+                     </l>
+                     <l>And <hi>day Light</hi> did appear,</l>
+                     <l>Which leads to God out of all <hi>Sin,</hi>
+                     </l>
+                     <l>And frees from ſlaviſh Fear.</l>
+                     <l>And frees from <hi>Wrath</hi> and <hi>Vengeance</hi> ſore,</l>
+                     <l>For Evil Deeds is due;</l>
+                     <l>Which is the Portion o'th' Vnjuſt,</l>
+                     <l>The Scriptures plainly ſhew.</l>
+                  </lg>
+                  <lg>
+                     <l>Bleſt be the time in which <hi>this way</hi>
+                     </l>
+                     <l>And <hi>Truth</hi> and <hi>Light</hi> did ſhine</l>
+                     <l>To th' ſatisfaction of my Soul,</l>
+                     <l>That for the ſame did pine.</l>
+                     <l>I hungred after <hi>Bread</hi> of <hi>Life,</hi>
+                     </l>
+                     <l>And <gap reason="illegible" resp="#UOM" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>ited for Drink ſore,</l>
+                     <l>
+                        <hi>That</hi> Bread and Drink, which who receive,</l>
+                     <l>Ne're hunger nor thirſt more.</l>
+                     <pb n="51" facs="tcp:192198:31"/>
+                     <l>That is to ſay, for other Food,</l>
+                     <l>Or other Drink, but ſtill</l>
+                     <l>They daily pray unto the Lord,</l>
+                     <l>Thereof to have their fill,</l>
+                     <l>For they that hunger, and do thirſt</l>
+                     <l>For <hi>Righteouſneſs</hi> moſt pure,</l>
+                     <l>Are bleſt of God, and ſhall receive</l>
+                     <l>Mercies that will endure.</l>
+                  </lg>
+                  <lg>
+                     <l>And now the goodneſs of the Lord,</l>
+                     <l>In making known <hi>his Way,</hi>
+                     </l>
+                     <l>And gathering out of the <hi>by-paths,</hi>
+                     </l>
+                     <l>Where many go aſtray.</l>
+                     <l>And feeding of my hungry Soul</l>
+                     <l>With Bread, and Peace, and Reſt,</l>
+                     <l>Doth me conſtrain ſtill to declare,</l>
+                     <l>His Name forever bleſt,</l>
+                     <l>Who has done more for my poor Soul,</l>
+                     <l>Then I could ask or think.</l>
+                     <l>'Tis ſaid in times of Ignorance,</l>
+                     <l>(By paſt) the Lord did wink;</l>
+                     <l>But now the Lord to all men calls,</l>
+                     <l>
+                        <hi>Repentance</hi> for to make,</l>
+                     <l>And from their ſinful ways return,</l>
+                     <l>Or elſe go into th' Lake.</l>
+                  </lg>
+                  <lg>
+                     <l>'Tis not he that <hi>Lord, Lord,</hi> ſhall ſay,</l>
+                     <l>But he that doth Gods Will,</l>
+                     <l>And through great Tribulations goes,</l>
+                     <l>Shall ſtand on <hi>Zions Hill,</hi>
+                     </l>
+                     <pb n="52" facs="tcp:192198:32"/>
+                     <l>With Harps in hands, ſinging aloud,</l>
+                     <l>Praiſes to God moſt High.</l>
+                     <l>
+                        <hi>Such</hi> they love not their Lives to Death,</l>
+                     <l>But for the Truth can dye.</l>
+                     <l>And thoſe that can dye for the Truth,</l>
+                     <l>And ſor Truth loſe their <hi>All,</hi>
+                     </l>
+                     <l>They are the Sons of the moſt High,</l>
+                     <l>And have obey'd his Call.</l>
+                     <l>They are a choſen People, and</l>
+                     <l>A Generation pure,</l>
+                     <l>A Royal Prieſthood unto God,</l>
+                     <l>That ſhall for aye endure.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>Concerning the breaking forth of the Word and Power of God.</head>
+                  <lg>
+                     <l>WHen God appeared in his <hi>Power,</hi>
+                     </l>
+                     <l>In his great <hi>Love</hi> and <hi>Light,</hi>
+                     </l>
+                     <l>And to the Sons of men made <hi>bare</hi>
+                     </l>
+                     <l>His glorious Arm of Might:</l>
+                     <l>When by his <hi>Word</hi> he brake their Hearts,</l>
+                     <l>Which hardned were by <hi>Sin,</hi>
+                     </l>
+                     <l>And clear'd their Underſtandings dark,</l>
+                     <l>By <hi>Light</hi> ſhining <hi>within.</hi>
+                     </l>
+                     <l>Then did they feel and ſee and know,</l>
+                     <l>And underſtand aright,</l>
+                     <l>That all the works which they had wrought</l>
+                     <l>Were but toiling i'th' Night,</l>
+                     <pb n="55" facs="tcp:192198:32"/>
+                     <l>Though they did read, and pray, and preach,</l>
+                     <l>And frequently attend</l>
+                     <l>Duties and Exerciſe (ſo call'd)</l>
+                     <l>From Weeks end to Weeks end.</l>
+                     <l>Yet being err'd in mind from <hi>that</hi>
+                     </l>
+                     <l>Which is the ground, wherein</l>
+                     <l>All Sacrifice accepted is,</l>
+                     <l>Which from the ſame doth ſpring;</l>
+                     <l>To wit, the <hi>Spirit</hi> of the Lord,</l>
+                     <l>And gift of his free <hi>Grace,</hi>
+                     </l>
+                     <l>Without the which none can approach</l>
+                     <l>To God, nor ſee his Face.</l>
+                     <l>What e're ſuch ſaid, or thought, or did,</l>
+                     <l>It ſinful was and vain,</l>
+                     <l>Their Offerings did no more pleaſe God,</l>
+                     <l>Than if a Dog were ſlain.</l>
+                     <l>And when by <hi>Light,</hi> and <hi>Truth,</hi> and <hi>Grace,</hi>
+                     </l>
+                     <l>Theſe things were underſtood,</l>
+                     <l>Then from Self-acting they did ceaſe,</l>
+                     <l>For that could do no good.</l>
+                     <l>And into Silence they were brought</l>
+                     <l>On God alone to wait,</l>
+                     <l>That in that Way they now might go,</l>
+                     <l>Which <hi>Narrow</hi> is, and <hi>Straight.</hi>
+                     </l>
+                     <l>And in thoſe pleaſant Rivers ſwim,</l>
+                     <l>Where no <hi>Galley</hi> with <hi>Oars,</hi>
+                     </l>
+                     <l>Nor <hi>gallent Ship</hi> can paſs thereby</l>
+                     <l>I'th' Channel, nor near Shores.</l>
+                     <pb n="54" facs="tcp:192198:33"/>
+                     <l>Where <hi>Self</hi> no Reputation hath,</l>
+                     <l>But <hi>Man's Will</hi> muſt be ſlain,</l>
+                     <l>And all the Clory of proud fleſh</l>
+                     <l>Into the Duſt be lain,</l>
+                     <l>Where all Fleſh muſt be ſilenced,</l>
+                     <l>And Death not dare to ſpeak;</l>
+                     <l>No Woman in Tranſgreſſion here,</l>
+                     <l>Nor Man i'th' Fall ſo weak,</l>
+                     <l>But only they whoſe Hearts the Lord</l>
+                     <l>Prepares, whoſe Tongues alſo</l>
+                     <l>The Lord hath touch't with a live Coal,</l>
+                     <l>None elſe his Praiſe can ſhow.</l>
+                  </lg>
+                  <lg>
+                     <l>And till the Lord doth touch their Hearts,</l>
+                     <l>And open their Mouthes wide,</l>
+                     <l>In pure Retiredneſs they wait,</l>
+                     <l>In ſilence they abide.</l>
+                     <l>And when in <hi>ſilence</hi> they do wait,</l>
+                     <l>And on the Lord attend,</l>
+                     <l>To do what he commandeth them,</l>
+                     <l>And go where he doth ſend.</l>
+                  </lg>
+                  <lg>
+                     <l>They do not <hi>Speak</hi> until they feel</l>
+                     <l>His <hi>Word</hi> which is a Fire,</l>
+                     <l>Within their Breaſt to burn, as they</l>
+                     <l>To him their Minds retire.</l>
+                  </lg>
+                  <lg>
+                     <l>Some then offended are hereat,</l>
+                     <l>When they thus on God <hi>wait,</hi>
+                     </l>
+                     <l>And ſay, <hi>no Profit</hi> can be known</l>
+                     <l>In ſuch a <hi>Silent</hi> ſtate.</l>
+                  </lg>
+                  <lg>
+                     <pb n="55" facs="tcp:192198:33"/>
+                     <l>VVhat benefit can be (ſay ſome)</l>
+                     <l>VVhen none do <hi>Preach</hi> nor <hi>Pray,</hi>
+                     </l>
+                     <l>But <hi>Dumb</hi> and <hi>Silent</hi> do remain,</l>
+                     <l>It may be all the Day?</l>
+                     <l>Thus <hi>they,</hi> who call their Tongues their own,</l>
+                     <l>Too much can Prate and Talk,</l>
+                     <l>And gird themſelves, do as they liſt,</l>
+                     <l>And where they pleaſe will walk.</l>
+                  </lg>
+                  <lg>
+                     <l>But ſuch as know the Lord to gird,</l>
+                     <l>And lead them in <hi>that Way,</hi>
+                     </l>
+                     <l>In which they would not go, when they</l>
+                     <l>Formerly went aſtray.</l>
+                     <l>They dare not <hi>Speak</hi> their <hi>own</hi> words then,</l>
+                     <l>Their <hi>Tongues</hi> are not their own;</l>
+                     <l>That Member ſo unruly was,</l>
+                     <l>A <hi>Taming</hi> time has known.</l>
+                  </lg>
+                  <lg>
+                     <l>Then as the work of God is wrought</l>
+                     <l>Upon the Heart within,</l>
+                     <l>And <hi>Tongue</hi> is <hi>tam'd,</hi> by that great <hi>Power</hi>
+                     </l>
+                     <l>Which frees the Soul from <hi>Sin:</hi>
+                     </l>
+                     <l>Such they can open wide their Mouthes</l>
+                     <l>Gods VVorks for to declare,</l>
+                     <l>And what they meet with for the ſame</l>
+                     <l>Inabled are to bear.</l>
+                     <l>For they are paſt the <hi>Fear</hi> of man,</l>
+                     <l>The Lord alone they fear,</l>
+                     <l>And preach the <hi>Goſpel <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>,</hi> that all</l>
+                     <l>The <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> thereof may hear.</l>
+                  </lg>
+                  <lg>
+                     <pb n="56" facs="tcp:192198:34"/>
+                     <l>Inſt ant in <hi>Seaſon</hi> they are found,</l>
+                     <l>And out of <hi>Seaſon</hi> too,</l>
+                     <l>Alway in readineſs the VVill</l>
+                     <l>And Work of God to do.</l>
+                     <l>And if by ſome they are for bid</l>
+                     <l>Thus to <hi>Preach</hi> in Chriſts <hi>Name,</hi>
+                     </l>
+                     <l>More bold, and more couragiouſly</l>
+                     <l>They do declare the <hi>Same.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>The more the <hi>Truth</hi> oppoſed is,</l>
+                     <l>The more the <hi>Truth</hi> doth thrive,</l>
+                     <l>Like Camemile, the more oppreſt,</l>
+                     <l>The more it doth revive.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Truth</hi> may be blam'd, cannot be ſhamed;</l>
+                     <l>
+                        <hi>Truth</hi> ſtronger is than all,</l>
+                     <l>And all that dwell therein ſhall ſtand,</l>
+                     <l>When <hi>Babylon</hi> ſhall fall.</l>
+                     <l>
+                        <hi>Miſtery Babylon</hi> the great,</l>
+                     <l>Mother of <hi>Harlots,</hi> ſhe,</l>
+                     <l>Like to a Mill-ſtone ſhall be thrown,</l>
+                     <l>And caſt into the Sea.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>Concerning Gods Powerful and Glorious Preſence.</head>
+                  <lg>
+                     <l>THe <hi>Preſence</hi> of the Living God,</l>
+                     <l>And working of <hi>his Power,</hi>
+                     </l>
+                     <l>Doth rend the Rocks, and ſcatter Clouds,</l>
+                     <l>
+                        <hi>His</hi> Name is a ſtrong Tower,</l>
+                     <pb n="57" facs="tcp:192198:34"/>
+                     <l>To which the Righteous fly apace,</l>
+                     <l>And <hi>there</hi> in ſafety dwell;</l>
+                     <l>
+                        <hi>It</hi> alſo precious Oyntment is,</l>
+                     <l>The Virgins wiſe can tell.</l>
+                     <l>The <hi>Preſence</hi> of the <hi>Living God</hi>
+                     </l>
+                     <l>Is comfortable, and</l>
+                     <l>Great Pleaſures are forever more,</l>
+                     <l>Enjoy'd at <hi>his</hi> Right-hand:</l>
+                     <l>In <hi>his</hi> pure <hi>Preſence</hi> there is Life,</l>
+                     <l>And Peace, and Joy, and Reſt,</l>
+                     <l>And thoſe that do not know the <hi>Same,</hi>
+                     </l>
+                     <l>What they enjoy, e'nt bleſt.</l>
+                     <l>The Hills flow down, the Mountains move,</l>
+                     <l>The Earth doth reell and ſhake</l>
+                     <l>At the great <hi>Preſence</hi> of the <hi>Lord,</hi>
+                     </l>
+                     <l>Who all the World did make,</l>
+                     <l>Therefore the <hi>Preſence</hi> of the <hi>Lord,</hi>
+                     </l>
+                     <l>From it where can man fly?</l>
+                     <l>If he deſcend into the Deep,</l>
+                     <l>Or mount up to the Sky;</l>
+                     <l>Or do the Wings o'th' Morning take,</l>
+                     <l>And to the Earth's end go,</l>
+                     <l>The <hi>Preſence</hi> of the <hi>Lord</hi> is there,</l>
+                     <l>Man's Thoughts to him to ſhow.</l>
+                     <l>The <hi>Lord,</hi> the mighty <hi>God</hi> of <hi>Hoſts,</hi>
+                     </l>
+                     <l>For ſo is call'd his <hi>Name,</hi>
+                     </l>
+                     <l>Who did the Mountains form, the Winds</l>
+                     <l>Create, and all things frame.</l>
+                     <pb n="56" facs="tcp:192198:35"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="57" facs="tcp:192198:35"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="58" facs="tcp:192198:36"/>
+                     <l>The Upright in <hi>his Preſence</hi> dwell,</l>
+                     <l>And thanks to <hi>him</hi> do give,</l>
+                     <l>For Mercies that from time to time,</l>
+                     <l>From <hi>him</hi> they do receive.</l>
+                     <l>But thoſe that walk in ſinful ways,</l>
+                     <l>And in Uncleanneſs dwell,</l>
+                     <l>Shall from the <hi>Preſence</hi> of the <hi>Lord</hi>
+                     </l>
+                     <l>Be driven into <hi>Hell.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>Concerning Maintenance for the Poor.</head>
+                  <lg>
+                     <l>IN antient days, as we may read</l>
+                     <l>In <hi>Deutronomy</hi> plain,</l>
+                     <l>The Lord ordained ways and means,</l>
+                     <l>The <hi>Poor</hi> for to <hi>maintain.</hi>
+                     </l>
+                     <l>Yea, he took care, and gave ſtrict charge,</l>
+                     <l>The <hi>Poor Reliev'd</hi> might be.</l>
+                     <l>As alſo in <hi>Leviticus,</hi>
+                     </l>
+                     <l>We may both read and ſee;</l>
+                     <l>And in the Book of <hi>Samuell,</hi>
+                     </l>
+                     <l>God made both <hi>Rich</hi> and <hi>Poor;</hi>
+                     </l>
+                     <l>He lifteth up and bringeth low,</l>
+                     <l>Let all his Power adore.</l>
+                     <l>The Perſons of the Princes great</l>
+                     <l>Accepteth not the Lord,</l>
+                     <l>Nor <hi>more</hi> regards the <hi>Rich</hi> than <hi>Poor,</hi>
+                     </l>
+                     <l>He made both by his Word.</l>
+                     <pb n="59" facs="tcp:192198:36"/>
+                     <l>The <hi>Rich,</hi> who do the <hi>Poor</hi> deſpiſe,</l>
+                     <l>And Needy Ones diſdain,</l>
+                     <l>The time will come, that all their Wealth</l>
+                     <l>Can't free them from their Pain,</l>
+                     <l>The expectation of the <hi>Poor</hi>
+                     </l>
+                     <l>Shall periſh not, nor fail,</l>
+                     <l>Though Wicked men <hi>them</hi> perſecute,</l>
+                     <l>And in Pride, <hi>them</hi> aſſail.</l>
+                  </lg>
+                  <lg>
+                     <l>The <hi>Proud</hi> lay wait to catch the <hi>Poor,</hi>
+                     </l>
+                     <l>Their Eyes are priv'ly ſet;</l>
+                     <l>The <hi>Needy</hi> they ſeek to enſnare,</l>
+                     <l>And take them in their Net.</l>
+                     <l>But they are bleſt who do the <hi>Poor</hi>
+                     </l>
+                     <l>In their Diſtreſs conſider,</l>
+                     <l>And <hi>help</hi> the <hi>Needy</hi> in their <hi>ſtraits,</hi>
+                     </l>
+                     <l>Their Leaf ſhall not ſoon wither.</l>
+                     <l>The Lord will certainly <hi>maintain</hi>
+                     </l>
+                     <l>The juſt Right of the <hi>Poor,</hi>
+                     </l>
+                     <l>The Cauſe of the afflicted Ones,</l>
+                     <l>For-a ye and evermore.</l>
+                     <l>Although his Neighbours hate the <hi>Poor,</hi>
+                     </l>
+                     <l>And Brethren him deſpiſe,</l>
+                     <l>Much Food is in his tillage, and</l>
+                     <l>A Bleſſing on it lies.</l>
+                     <l>Whoever do the <hi>Poor Oppreſs,</hi>
+                     </l>
+                     <l>And to them are unkind,</l>
+                     <l>They do diſhonour God, them made,</l>
+                     <l>I'th' Scripture we ſo find.</l>
+                     <pb n="60" facs="tcp:192198:37"/>
+                     <l>We alſo read, that man is bleſt</l>
+                     <l>Hath a <hi>Bountiful</hi> Eye,</l>
+                     <l>Becauſe his Bread unto the <hi>Poor</hi>
+                     </l>
+                     <l>He gives, when they do cry.</l>
+                  </lg>
+                  <lg>
+                     <l>The <hi>Churle</hi> doth ill devices make</l>
+                     <l>For to deſtroy the <hi>Poor;</hi>
+                     </l>
+                     <l>And them to ſlay with Lying words,</l>
+                     <l>That they may riſe no more.</l>
+                     <l>The Perſon <hi>Vile</hi> no more ſhall be</l>
+                     <l>A <hi>Liveral man</hi> eſteem'd,</l>
+                     <l>Nor yet the <hi>Churle</hi> thought <hi>Bountiful,</hi>
+                     </l>
+                     <l>It muſt not ſo be deem'd.</l>
+                     <l>The <hi>Poor</hi> who walk in Uprightneſs,</l>
+                     <l>And in Gods fear do dwell,</l>
+                     <l>Are better than the <hi>Rich,</hi> Perverſe,</l>
+                     <l>Whoſe ways lead down to Hell.</l>
+                     <l>He that unto the <hi>Poor</hi> doth give,</l>
+                     <l>Sha'nt lack in time of need;</l>
+                     <l>But he that hides his Eyes ſhall have</l>
+                     <l>Many a Curſe indeed.</l>
+                     <l>Doth not the God of Heaven and Earth</l>
+                     <l>The <hi>Poor</hi> of this world chuſe?</l>
+                     <l>Doth not the Lord reject the <hi>Rich,</hi>
+                     </l>
+                     <l>No kindneſs to them ſhews?</l>
+                     <l>The <hi>Rich</hi> and <hi>Poor</hi> together meet,</l>
+                     <l>The Lord them both did make,</l>
+                     <l>And though the <hi>Rich</hi> regard <hi>them</hi> not,</l>
+                     <l>God for them care will take.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <pb n="61" facs="tcp:192198:37"/>
+                  <head>Concerning the Vncertainty of Worldly Riches.</head>
+                  <lg>
+                     <l>AS doth the Eagle ſoar aloft,</l>
+                     <l>And towards the Heavens fly,</l>
+                     <l>So <hi>Riches</hi> to themſelves make <hi>Wings,</hi>
+                     </l>
+                     <l>Gone from us by and by.</l>
+                     <l>
+                        <hi>No Certainty</hi> nor Confidence</l>
+                     <l>A man can in <hi>them</hi> have:</l>
+                     <l>His precious Soul <hi>they</hi> can't Redeem,</l>
+                     <l>Nor Ranſom from the Grave.</l>
+                     <l>Thoſe that <hi>them</hi> eagerly perſue,</l>
+                     <l>And to grow <hi>Rich</hi> make haſte,</l>
+                     <l>Do oft into great Michiefs fall,</l>
+                     <l>And Heritage lay waſte.</l>
+                     <l>Therefore 'tis good, content to be</l>
+                     <l>With <hi>what</hi> the Lord doth give,</l>
+                     <l>And whether thou be <hi>Rich</hi> or <hi>Poor,</hi>
+                     </l>
+                     <l>Still in Gods Fear to live.</l>
+                     <l>Mans Happineſs and Life don't ſtand</l>
+                     <l>In his <hi>Abundance</hi> great;</l>
+                     <l>Therefore let all contented be,</l>
+                     <l>Not wanting Clothes and Meat.</l>
+                     <l>For who ſo to <hi>Content</hi> is come,</l>
+                     <l>A <hi>Creaſure</hi> hath before</l>
+                     <l>That man whoſe Barnes are fill'd and throng'd,</l>
+                     <l>So full they'l hold no more.</l>
+                     <pb n="62" facs="tcp:192198:38"/>
+                     <l>The <hi>Cares</hi> and <hi>Riches</hi> of this World,</l>
+                     <l>The good Seed oft doth choak;</l>
+                     <l>When ſome grow Rich, then they grow High</l>
+                     <l>And ſo caſts off Chriſt's Yoak.</l>
+                     <l>Therefore ſaid Chriſt, How hard it is</l>
+                     <l>For thoſe have <hi>Riches</hi> ſtore</l>
+                     <l>Into Gods Kingdom for to go;</l>
+                     <l>More eaſie for the <hi>Poor.</hi>
+                     </l>
+                     <l>How ſorrowful it made th' Young Man,</l>
+                     <l>Chriſt ſaid, lack'd <hi>One thing</hi> more,</l>
+                     <l>Which was, to <hi>Sell all</hi> that he had,</l>
+                     <l>And give't unto the <hi>Poor,</hi>
+                     </l>
+                     <l>And thou in Heaven <hi>Rich</hi> ſhalt be,</l>
+                     <l>And come and follow me:</l>
+                     <l>But having great <hi>Poſſeſſions</hi> here,</l>
+                     <l>How ſorrowful was he!</l>
+                     <l>More eaſie for a <hi>Camel</hi> 'tis</l>
+                     <l>A Needles Eye go through,</l>
+                     <l>Than for a <hi>rich man,</hi> as ſaith Chriſt,</l>
+                     <l>Gods Kingdom get into.</l>
+                  </lg>
+                  <lg>
+                     <l>The Widdows Mites, which ſhe caſt in,</l>
+                     <l>The <hi>Creaſury</hi> was <hi>more,</hi>
+                     </l>
+                     <l>Than all the reſt, what they caſt in</l>
+                     <l>Of their abundant ſtore.</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="63" facs="tcp:192198:38"/>
+               <head>A Lamentation and Warning for England.</head>
+               <lg>
+                  <l>OH, <hi>England! England!</hi> ſurely now</l>
+                  <l>Thy caſe is very ſad,</l>
+                  <l>When many in thy Borders are</l>
+                  <l>So wicked grown, and bad.</l>
+                  <l>That at <hi>good men</hi> they make a Scoff,</l>
+                  <l>At <hi>Purity</hi> deride,</l>
+                  <l>Diſdain the name of <hi>Holineſs,</hi>
+                  </l>
+                  <l>Exalted in their <hi>Pride.</hi>
+                  </l>
+                  <l>Contemn the Worſhip of the Lord</l>
+                  <l>In <hi>Spirit</hi> and in <hi>Truth;</hi>
+                  </l>
+                  <l>This is a ſtate to be lament,</l>
+                  <l>In old men and in Youth.</l>
+                  <l>Becauſe of <hi>Oathes</hi> the Land doth Mourn,</l>
+                  <l>
+                     <hi>Swearing</hi> is grown ſo great,</l>
+                  <l>
+                     <hi>Daming</hi> and <hi>Sinking</hi> may be heard</l>
+                  <l>Too frequent in the Street.</l>
+                  <l>
+                     <hi>Curſings, Plague-rot</hi> and <hi>God-confound</hi>
+                  </l>
+                  <l>So commonly are uſed,</l>
+                  <l>With <hi>Gluttony</hi> and <hi>Drunkenneſs,</hi>
+                  </l>
+                  <l>Gods Mercies are abuſed.</l>
+               </lg>
+               <lg>
+                  <l>Moreover and beſides all this,</l>
+                  <l>Wicked <hi>Informers</hi> are</l>
+                  <l>By ſome too much encouraged,</l>
+                  <l>
+                     <hi>Chriſts flock</hi> to rend and tear.</l>
+                  <pb n="64" facs="tcp:192198:39"/>
+                  <l>Their Goods to Spoil, Houſes Rifle,</l>
+                  <l>And them in Priſon caſt,</l>
+                  <l>And go on ſtill to work that ill,</l>
+                  <l>Will Ruin bring at laſt.</l>
+                  <l>But if theſe things encourag'd be,</l>
+                  <l>And no ſtop put thereto,</l>
+                  <l>The End will but <hi>Deſtruction</hi> bring,</l>
+                  <l>And <hi>Nation</hi> quite <hi>undo.</hi>
+                  </l>
+                  <l>For certainly the God of Truth,</l>
+                  <l>That doth in Heaven dwell,</l>
+                  <l>His great Diſpleaſure will make known,</l>
+                  <l>For ſuch things, I fore-tell.</l>
+                  <l>But though to thee, I tell the ſame,</l>
+                  <l>Yet ſome will not regard,</l>
+                  <l>But ſtill will Mock at Warnings fair,</l>
+                  <l>Their Hearts are grown ſo hard.</l>
+                  <l>E're long the time will come, in which</l>
+                  <l>A Reckoning God will make,</l>
+                  <l>With them that do <hi>his People</hi> wrong,</l>
+                  <l>And from them their Goods take.</l>
+                  <l>'Tis not for <hi>Evil they</hi> have done,</l>
+                  <l>But only and alone</l>
+                  <l>For <hi>worſhipping</hi> and <hi>ſerving</hi> him,</l>
+                  <l>Who is the Holy One.</l>
+                  <l>Yea, certainly the thing is ſtrange,</l>
+                  <l>Did you the like e're hear,</l>
+                  <l>If one do either <hi>Preach</hi> or <hi>Pray,</hi>
+                  </l>
+                  <l>He <hi>Fined</hi> is ſevere?</l>
+                  <pb n="65" facs="tcp:192198:39"/>
+                  <l>And if one <hi>neither</hi> Preach nor Pray,</l>
+                  <l>But with <hi>Gods People</hi> meet,</l>
+                  <l>Although in Silence they remain,</l>
+                  <l>In Meeting-Houſe or Street.</l>
+                  <l>Then this is deem'd a Crime ſo great,</l>
+                  <l>Some ſay, they won't it bear;</l>
+                  <l>And threaten, if they ſtand i'th' <hi>Street,</hi>
+                  </l>
+                  <l>A <hi>Riot</hi> they will ſwear.</l>
+                  <l>They chuſe not in the Street to ſtand,</l>
+                  <l>But forced by Conſtraint</l>
+                  <l>Out of their hired Houſes, then</l>
+                  <l>To meet i'th' Streets are faint.</l>
+                  <l>In Peace and Quietneſs they ſtand,</l>
+                  <l>Upon the Lord to wait,</l>
+                  <l>That ſo their Strength renew'd may be,</l>
+                  <l>And bettered in their ſtate.</l>
+                  <l>For this they know, their <hi>Duty</hi> is,</l>
+                  <l>
+                     <hi>Aſſembled</hi> for to be,</l>
+                  <l>And <hi>wait</hi> upon and <hi>Worſhip</hi> God</l>
+                  <l>In true Sinceritie.</l>
+                  <l>And God, the Searcher of all Hearts,</l>
+                  <l>He their <hi>Intent</hi> doth know,</l>
+                  <l>That for no other end they Meet,</l>
+                  <l>And to Aſſemblies go.</l>
+                  <l>They are a People principl'd,</l>
+                  <l>Their Practice has made known,</l>
+                  <l>No <hi>wrong</hi> to do, nor ſeek <hi>revenge,</hi>
+                  </l>
+                  <l>
+                     <hi>Good Will</hi> towards all they've ſhown.</l>
+                  <pb n="66" facs="tcp:192198:40"/>
+                  <l>Their Principle and Practice is,</l>
+                  <l>
+                     <hi>Superiors</hi> to <hi>Obey,</hi>
+                  </l>
+                  <l>And do thoſe things which they require,</l>
+                  <l>Wherein <hi>God</hi> don't ſay <hi>Nay.</hi>
+                  </l>
+                  <l>But if it happen to fall out,</l>
+                  <l>Some things they have enjoyn'd,</l>
+                  <l>The Lord contrary-wiſe requires,</l>
+                  <l>I'th' Scriptures ye do find.</l>
+                  <l>It better is, <hi>God</hi> to <hi>Obey,</hi>
+                  </l>
+                  <l>Than ſubiect be to <hi>Man;</hi>
+                  </l>
+                  <l>To <hi>This</hi> all good Men do agree,</l>
+                  <l>Let reſt ſay what they can.</l>
+                  <l>Their <hi>Meetings</hi> are <hi>Religious,</hi> and</l>
+                  <l>Moſt <hi>Peaceable</hi> and <hi>Quiet,</hi>
+                  </l>
+                  <l>And yet ſome Vile Ungodly Men,</l>
+                  <l>Swears thus meeting, a <hi>Riot.</hi>
+                  </l>
+                  <l>Where nothing <hi>Riotous</hi> appears</l>
+                  <l>In <hi>Words, Deeds,</hi> nor <hi>Intent,</hi>
+                  </l>
+                  <l>And yet they'l boldly ſwear the <hi>ſame,</hi>
+                  </l>
+                  <l>So wickedly they're bent.</l>
+                  <l>But certainly the time's at hand,</l>
+                  <l>God will his Children dear,</l>
+                  <l>That ſerve him uprightly in Truth,</l>
+                  <l>From all <hi>falſe Charges</hi> clear.</l>
+                  <l>And they that wrongfully accuſe,</l>
+                  <l>And hate them without cauſe,</l>
+                  <l>Shall <hi>bear</hi> his Righteous Judgment fierce,</l>
+                  <l>And Rigour of his Laws.</l>
+                  <pb n="67" facs="tcp:192198:40"/>
+                  <l>Who Rigorous to his Lambs have been,</l>
+                  <l>Severe beyond all Reaſon,</l>
+                  <l>Conſpirators againſt the Lamb,</l>
+                  <l>And guilty of High-Treaſon.</l>
+                  <l>They at his Bar of Juſtice then</l>
+                  <l>Arraigned all ſhall be,</l>
+                  <l>And ſentence from the Judge receive</l>
+                  <l>For their Iniquitie.</l>
+                  <l>
+                     <hi>Depart</hi> from <hi>me,</hi> ye Workers of</l>
+                  <l>Iniquity and Sin</l>
+                  <l>Unto the place prepar'd of old,</l>
+                  <l>
+                     <hi>Tophet</hi> 'tis call'd, wherein</l>
+                  <l>The Worm ne're dyes, and Fire burns</l>
+                  <l>Exceeding hot and fierce;</l>
+                  <l>A flame of <hi>Brimſtone</hi> kindleth it,</l>
+                  <l>Where Piles of Wood's not ſcarce.</l>
+                  <l>In Everlaſting <hi>Torments, they</hi>
+                  </l>
+                  <l>
+                     <hi>Their Teeth</hi> ſhall gnaſh with <hi>Pain:</hi>
+                  </l>
+                  <l>In <hi>Chains</hi> of <hi>Darkneſs</hi> they'l be bound,</l>
+                  <l>Not to be free'd again.</l>
+                  <l>Therefore to thoſe that <hi>perſecute</hi>
+                  </l>
+                  <l>The Righteous and the Juſt,</l>
+                  <l>I ſay, Repent, before God ſay,</l>
+                  <l>
+                     <hi>Depart</hi> from <hi>me,</hi> ye <hi>Curſt;</hi>
+                  </l>
+                  <l>For if <hi>Repentauce</hi> ye don t know,</l>
+                  <l>And from theſe Evils ceaſe,</l>
+                  <l>Then into <hi>Thraldom</hi> muſt you go,</l>
+                  <l>Ne're more to have releaſe.</l>
+                  <pb n="68" facs="tcp:192198:41"/>
+                  <l>And what you have to good Men done,</l>
+                  <l>And that without juſt cauſe,</l>
+                  <l>The ſame to you, ſhall meaſur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d be,</l>
+                  <l>By thoſe contemn your Laws.</l>
+               </lg>
+               <lg>
+                  <l>Oh! that my Native <hi>Country-men,</hi>
+                  </l>
+                  <l>And Subjects of this <hi>Realm,</hi>
+                  </l>
+                  <l>To Moderation might incline,</l>
+                  <l>And thoſe ſet at the <hi>Helm,</hi>
+                  </l>
+                  <l>The <hi>Cry</hi> of the <hi>Oppreſſed,</hi> and</l>
+                  <l>The <hi>Caſe</hi> of all the <hi>Poor</hi>
+                  </l>
+                  <l>Would hear, and thoſe in <hi>Goals</hi> now lie,</l>
+                  <l>To Freedom would reſtore:</l>
+                  <l>And grant to all the <hi>Iſraelites</hi>
+                  </l>
+                  <l>Free leave to <hi>ſerve</hi> the <hi>Lord,</hi>
+                  </l>
+                  <l>And go to <hi>New-Ieruſal'm,</hi> to</l>
+                  <l>Praiſe him with one accord.</l>
+                  <l>Then <hi>Bleſſings</hi> from above will come</l>
+                  <l>Upon this Nation great:</l>
+                  <l>The Nations round about ſhall all</l>
+                  <l>Not only hear, but ſee't.</l>
+                  <l>When <hi>Truth</hi> and <hi>Righteouſneſs</hi> prevails,</l>
+                  <l>
+                     <hi>Iuſtice</hi> and <hi>Iudgment</hi> to,</l>
+                  <l>The want of <hi>which,</hi> where-e're it be,</l>
+                  <l>
+                     <hi>That</hi> Nation will undo.</l>
+                  <l>Where <hi>Iudges</hi> for <hi>Rewards</hi> do judge,</l>
+                  <l>More then the Caſe o'th' Poor,</l>
+                  <l>The Righteous Judge of Heav'n and Earth</l>
+                  <l>Will <hi>judge</hi> with <hi>Vengeance</hi> ſore.</l>
+                  <pb n="69" facs="tcp:192198:41"/>
+                  <l>Where <hi>Prieſts</hi> that preach are <hi>Hirelings</hi> found,</l>
+                  <l>And tear the <hi>Wool</hi> from <hi>Sheep,</hi>
+                  </l>
+                  <l>They Shepherds are, void of Gods fear,</l>
+                  <l>Not fit his <hi>his flock</hi> to keep.</l>
+                  <l>And God, whoſe Eye goes to and fro,</l>
+                  <l>And all things doth behold,</l>
+                  <l>His Controverſie with them's great,</l>
+                  <l>As Prophets ſaid of old.</l>
+               </lg>
+               <lg>
+                  <l>That <hi>Light</hi> is come, and now doth <hi>ſhine,</hi>
+                  </l>
+                  <l>Falſe Teachers doth diſcover,</l>
+                  <l>And <hi>It</hi> muſt break forth more and more,</l>
+                  <l>And ſpread all Nations over,</l>
+                  <l>For to diſcover <hi>Babylon,</hi>
+                  </l>
+                  <l>And all <hi>her Merchants great,</hi>
+                  </l>
+                  <l>That ſo the <hi>Whore</hi> may reign no more,</l>
+                  <l>But come down from her <hi>Seat.</hi>
+                  </l>
+                  <l>
+                     <hi>She</hi> long has ſate and reign'd as <hi>Queen,</hi>
+                  </l>
+                  <l>No Sorrow <hi>ſhe</hi> would ſee,</l>
+                  <l>But now the time's at hand, in which</l>
+                  <l>Will come <hi>her</hi> Deſtinie.</l>
+                  <l>
+                     <hi>She</hi> long the <hi>Blood</hi> of <hi>Saints</hi> hath drunk,</l>
+                  <l>'Cauſe from <hi>Truth</hi> they'd not turn.</l>
+                  <l>But now the <hi>Kings</hi> ſhall hate the <hi>Whore,</hi>
+                  </l>
+                  <l>
+                     <hi>Her</hi> fleſh with Fire burn.</l>
+               </lg>
+               <closer>
+                  <signed>B. A.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="70" facs="tcp:192198:42"/>
+               <head>A Tripple Plea.</head>
+               <lg>
+                  <l>
+                     <hi>Law, Phyſick</hi> and <hi>Divinitie,</hi>
+                  </l>
+                  <l>Were at a jarr, could not agree,</l>
+                  <l>To prove their Right, which of all three</l>
+                  <l>Should have <hi>Superioritie.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The <hi>Law</hi> pleads, It preſerves <hi>Mens Lands,</hi>
+                  </l>
+                  <l>And keeps their Goods from Ravenous Hands,</l>
+                  <l>Therefore of Right challengeth he</l>
+                  <l>To have <hi>Superioritie.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Phyſick</hi> preſcribes Receipts for <hi>Health;</hi>
+                  </l>
+                  <l>Which men prefer before their Wealth,</l>
+                  <l>Therefore of Right challengeth he</l>
+                  <l>To have <hi>Superioritie.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Then ſteps up the <hi>Prieſt</hi> demure,</l>
+                  <l>That of mens Souls takes <hi>Care</hi> and <hi>Cure,</hi>
+                  </l>
+                  <l>Therefore of Right challengeth he</l>
+                  <l>To have <hi>Superioritie.</hi>
+                  </l>
+               </lg>
+               <pb n="71" facs="tcp:192198:42"/>
+               <lg>
+                  <l>LEt <hi>Judges</hi> judge this <hi>Tripple-Plea,</hi>
+                  </l>
+                  <l>Then <hi>Lawyers</hi> ſhall bear all the Sway.</l>
+                  <l>Let <hi>Empiricks</hi> their Verdict give,</l>
+                  <l>
+                     <hi>Phyſitians</hi> moſt of all ſhall thrive.</l>
+               </lg>
+               <lg>
+                  <l>Let <hi>Biſhops</hi> be Judge in this caſe,</l>
+                  <l>Then <hi>Prieſts</hi> ſhall have the higheſt place.</l>
+                  <l>Let Honeſt, Sober, Wiſe Men judge,</l>
+                  <l>Then all theſe three away may trudge.</l>
+               </lg>
+               <lg>
+                  <l>For let men live in <hi>Peace</hi> and <hi>Love,</hi>
+                  </l>
+                  <l>The <hi>Lawyers</hi> Tricks they need not prove.</l>
+                  <l>Let men forbear <hi>Exceſs</hi> and <hi>Riot,</hi>
+                  </l>
+                  <l>They need not live by <hi>Phyſicks Diet.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Let men attend what <hi>God</hi> doth <hi>Teach,</hi>
+                  </l>
+                  <l>They need not care what <hi>Prieſt</hi> doth <hi>Preach.</hi>
+                  </l>
+                  <l>But if men Fools and Knaves will be,</l>
+                  <l>They ſhall be Aſs-rid of all <hi>Three.</hi>
+                  </l>
+               </lg>
+               <closer>
+                  <signed>T. C.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="72" facs="tcp:192198:43"/>
+               <lg>
+                  <l>THe <hi>Day</hi> of <hi>God</hi> doth now draw nigh,</l>
+                  <l>From which the Wicked fain would fly,</l>
+                  <l>Which <hi>Day</hi> diſcovers all their Deeds,</l>
+                  <l>And plainly ſhews they are but Weeds,</l>
+                  <l>And fit for nothing but the Fire,</l>
+                  <l>And to be burned in Gods Ire,</l>
+                  <l>Who now will throughly purge his Floore,</l>
+                  <l>And ſave the Wheat for evermore.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Chriſt</hi> is the <hi>Door,</hi> he is the <hi>Way,</hi>
+                  </l>
+                  <l>Where all ſhould walk, where none can ſtray;</l>
+                  <l>Turn in thy mind without delay,</l>
+                  <l>That thou mayſt joy in Gods pure Day.</l>
+               </lg>
+               <lg>
+                  <l>To <hi>God</hi> Moſt-high, <hi>Antient of Dayes,</hi>
+                  </l>
+                  <l>My Soul aloud doth ſound forth Praiſe;</l>
+                  <l>This is the thirſting of my Heart,</l>
+                  <l>That God his <hi>Love</hi> would more impart.</l>
+               </lg>
+               <lg>
+                  <l>My Soul doth magnifie the God of Light,</l>
+                  <l>For my <hi>Redemption</hi> great out of the Night;</l>
+                  <l>Bleſſing and Praiſe to him for evermore,</l>
+                  <l>Who hath inricht me with his <hi>heavenly ſtore,</hi>
+                  </l>
+                  <l>And gave me Entrance in by <hi>Chriſt</hi> the <hi>Door,</hi>
+                  </l>
+                  <l>To dwell with him now, and for evermore.</l>
+                  <l>Glory and Praiſe be unto God, I ſay,</l>
+                  <l>Who brought me from the <hi>Night</hi> into the <hi>Day.</hi>
+                  </l>
+               </lg>
+               <pb n="73" facs="tcp:192198:43"/>
+               <lg>
+                  <l>HOw freſh and green <hi>Things</hi> are in time of <hi>Spring?</hi>
+                  </l>
+                  <l>How ſweetly then the <hi>Turtle Dove</hi> doth <hi>Sing?</hi>
+                  </l>
+                  <l>A heavenly Song of <hi>Praiſes</hi> pure I hear,</l>
+                  <l>The time of my <hi>Redemption</hi> now draws near,</l>
+                  <l>Praiſes pure, Praiſes unto God forever,</l>
+                  <l>Who by his <hi>Word</hi> my Soul from Sin doth ſever,</l>
+                  <l>And fit the ſame, to enjoy endleſs Life,</l>
+                  <l>By perfect Freedom from all <hi>Iars</hi> and <hi>Strife,</hi>
+                  </l>
+                  <l>To live in <hi>Peace,</hi> and in a joyful ſtate,</l>
+                  <l>With <hi>Chriſt,</hi> my Head, my Portion, and my Mate.</l>
+                  <l>Now I no longer in the World may dwell,</l>
+                  <l>To me to live therein, ſeems like to Hell.</l>
+                  <l>The Courſe of the whole World, which lies in <hi>Sin,</hi>
+                  </l>
+                  <l>Too much therein I heretofore have bin,</l>
+                  <l>But now my <hi>Life</hi> it ſtands in <hi>God</hi> moſt pure,</l>
+                  <l>And here, O Lord, let me for a'ye indure.</l>
+                  <l>And when that <hi>Satan</hi> did draw out my Mind,</l>
+                  <l>I oft did in me hear a <hi>Voice</hi> behind,</l>
+                  <l>Which ſaid to me, <hi>keep</hi> to the <hi>Good</hi> within,</l>
+                  <l>For by <hi>It</hi> thou mayſt be preſerv'd from <hi>Sin:</hi>
+                  </l>
+                  <l>Keep to its <hi>Teachings,</hi> and mark the effect,</l>
+                  <l>For by <hi>Its</hi> Power, <hi>All Sin</hi> thou mayſt reject;</l>
+                  <l>Of this thou need in no wiſe for to doubt,</l>
+                  <l>For by <hi>Its</hi> Power the Devils are caſt out,</l>
+                  <l>And that State known, that's always pure and clean,</l>
+                  <l>Wherein no <hi>Spot</hi> nor <hi>Wrinkle</hi> can be ſeen;</l>
+                  <pb n="74" facs="tcp:192198:44"/>
+                  <l>And here the Soul may now for a'ye Rejoyce,</l>
+                  <l>And Praiſe the Lord with a pure holy Voice.</l>
+               </lg>
+               <lg>
+                  <l>The <hi>Lord</hi> hath often knocked in my Breaſt,</l>
+                  <l>That my Immortal Soul might have its Reſt,</l>
+                  <l>And be Redeem'd from all that hath oppreſt,</l>
+                  <l>To have my Life in Freedom, which is beſt.</l>
+                  <l>And ſo know Death through Life deſtroyed quite,</l>
+                  <l>And Mortal cloathed with Immortal Light.</l>
+               </lg>
+               <lg>
+                  <l>THe <hi>Day</hi> of <hi>God</hi> moſt holy is and pure,</l>
+                  <l>Which <hi>Day</hi> and <hi>Light</hi> the <hi>Sinner</hi> can't endure;</l>
+                  <l>He hates the <hi>Light</hi> appearing in his Heart,</l>
+                  <l>Becauſe the coming of it is his ſmart;</l>
+                  <l>For as an <hi>Oven,</hi> it will fiercely burn</l>
+                  <l>All that is bad, and to <hi>Truth</hi> will not turn;</l>
+                  <l>Yea, all that is in Man, it now will try,</l>
+                  <l>And all that is <hi>Impure</hi> muſt ſurely dye,</l>
+                  <l>And be conſum'd, as with a burning Fire,</l>
+                  <l>And be deſtroyed in Gods dreadful Ire;</l>
+                  <l>So only that which can the Fire endure</l>
+                  <l>Shall ſtand, and ſo come forth holy and pure</l>
+                  <l>And ſhall be crowned with a Crown of Life,</l>
+                  <l>Prepared as a Bride, and the Lamb's Wife.</l>
+               </lg>
+               <lg>
+                  <l>Therefore ye Sinners hear, leſt that ye dye,</l>
+                  <l>The Voice of Chriſt, Gods Son, with him comply,</l>
+                  <l>Who is the Saviour great, and kiſs him ſtraite,</l>
+                  <l>And to him bow, before it be too late,</l>
+                  <pb n="75" facs="tcp:192198:44"/>
+                  <l>And take his Counſel; for I plainly tell,</l>
+                  <l>Thoſe that reject the ſame, go down to Hell.</l>
+                  <l>Therefore with ſpeed, come turn your Minds within,</l>
+                  <l>Obey that Voice which doth reprove for Sin,</l>
+                  <l>And ſay, This is the <hi>Way,</hi> come walk in it,</l>
+                  <l>That you with me upon my Throne may ſit:</l>
+                  <l>Go not therefore in Ways and Works of Evil,</l>
+                  <l>No longer live in Sin, and ſerve the Devil;</l>
+                  <l>But follow me in thoſe Ways that are <hi>Pure,</hi>
+                  </l>
+                  <l>For <hi>dark</hi> and <hi>ſinfnl</hi> Ways I can't endure;</l>
+                  <l>My Soul in all reſpects doth loathe the ſame,</l>
+                  <l>Thoſe walk <hi>therein,</hi> diſhonour Gods pure Name:</l>
+                  <l>My Counſel heed, and do not run before,</l>
+                  <l>Incline not to the Spirit of the <hi>Whore,</hi>
+                  </l>
+                  <l>Her Cup of Wine, is Fornication great,</l>
+                  <l>Vials of Wrath ſhall come upon her Seat.</l>
+               </lg>
+               <lg>
+                  <l>THe Lord doth feed his Flock and give them Reſt</l>
+                  <l>In pleaſant Paſtures, where they richly feaſt,</l>
+                  <l>And drink of Shiloes Brooks that run ſo clear,</l>
+                  <l>For they only, the living God do fear;</l>
+                  <l>They hear his <hi>Voice,</hi> and do his <hi>Will</hi> aright,</l>
+                  <l>In Holy things their Souls have great delight.</l>
+                  <l>But this unto the Sinner ſeemeth ſtrange,</l>
+                  <l>Whoſe great delight in Darkneſs is to range</l>
+                  <l>And rove about, and from the good to raven,</l>
+                  <l>Walking in ſinful Ways, yet hope for Heaven.</l>
+                  <pb n="76" facs="tcp:192198:45"/>
+                  <l>'Tis a falſe Hope, the Hope o'th' Hypocrite,</l>
+                  <l>It leads not out of Darkneſs into Light;</l>
+                  <l>Therefore that Hope, I ſay, truſt to no more,</l>
+                  <l>But come to <hi>Chriſt within,</hi> the <hi>Hope,</hi> the <hi>Door;</hi>
+                  </l>
+                  <l>Come from that place where Satan has his ſtation,</l>
+                  <l>Enter the Kingdom through great Tribulation;</l>
+                  <l>For all that will live godly in Chriſt, they</l>
+                  <l>Shall meet with Perſecution in their Way;</l>
+                  <l>But God preſerves the Humble and the Meek,</l>
+                  <l>The Proud and Perſecutors Head he'l break.</l>
+                  <l>Therefore thy Neck ſubject unto Chriſt's Yoke,</l>
+                  <l>Fear not, thy Bands, though ſtrong, ſhall all be broke.</l>
+                  <l>His Yoke is eaſie, Burden light, and ſhall</l>
+                  <l>Give to thee Reſt, and bring out of the Fall,</l>
+                  <l>Into that Way, which narrow is and ſtraite;</l>
+                  <l>Bow to his Yoke before it be too late.</l>
+                  <closer>
+                     <signed>J. C.</signed>
+                  </closer>
+               </lg>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>Page 9. line 8. read <hi>look not thou thereon,</hi> l. 16. r <hi>leaſure.</hi> p. 10. l. 9. dele <hi>who,</hi> l. 24 for <hi>placed</hi> r. <hi>plac'd.</hi> p. 14. l. 23. f. <hi>doth</hi> r. <hi>do.</hi> p. 16. l. 26. r. <hi>like to a poſt.</hi>
+            </p>
+            <pb facs="tcp:192198:45"/>
+         </div>
+      </back>
+   </text>
+</TEI>
